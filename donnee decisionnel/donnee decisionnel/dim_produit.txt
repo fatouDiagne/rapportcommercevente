@@ -1,0 +1,998 @@
+"NOMPROD","CATEGORIE","MARQUE","PRIX"
+"High-Top Leather Boots","Clothing - Footwear","NASDAQ",78
+"Bock Beer Mustard","Food - Condiments","NYSE",80
+"Nail Polish Set","Beauty","NASDAQ",52
+"DIY Organic Gardening Kit","Garden","NASDAQ",58
+"LED Flashlight","Outdoor","NASDAQ",58
+"Foot Massager Machine","Health","NASDAQ",25
+"Beef Jerky","Food - Snacks","NYSE",38
+"Pasta Maker Machine","Kitchen","NYSE",65
+"Pasta Primavera","Food - Frozen Foods","NYSE",43
+"Pocket Blanket","Outdoor","NASDAQ",84
+"Trendy Bomber Jacket","Clothing - Outerwear","NYSE",19
+"Berries Medley","Food - Produce","NASDAQ",88
+"Adjustable Window Blind","Home","NYSE",21
+"Whole Grain Hamburger Buns","Food - Bakery","NYSE",32
+"Classic Baseball Cap","Clothing - Accessories","NASDAQ",47
+"Portable Laptop Table","Office","NYSE",94
+"Graphic Hoodie","Clothing - Outerwear","NASDAQ",43
+"Almond Flour Cookies","Food - Bakery","NASDAQ",62
+"Organic Apples","Food - Produce","NASDAQ",69
+"Sparkling Blood Orange Soda","Food - Beverages","NYSE",83
+"Instant Pot","Kitchen","NYSE",87
+"Gardening Kneeler and Seat","Garden","NASDAQ",54
+"Pesto Genovese","Food - Condiments","NASDAQ",33
+"High-Quality Yoga Mat","Fitness","NYSE",33
+"Golf Putting Green","Sports","NYSE",52
+"Whipped Cream Cheese","Food - Dairy","NASDAQ",25
+"Stainless Steel Cutlery Set","Kitchen","NYSE",18
+"Spicy Roasted Nuts","Food - Snacks","NYSE",3
+"Beard Grooming Kit","Grooming","NASDAQ",75
+"Eco-Friendly Beeswax Wraps","Kitchen","NYSE",37
+"Kale Salad with Lemon Dressing","Food - Salads","NASDAQ",99
+"Infrared Thermometer","Health","NYSE",6
+"LED Christmas Tree Lights","Home","NASDAQ",9
+"Quinoa","Food - Grains","NYSE",89
+"Graphic Tee","Clothing","NASDAQ",5
+"Kid's Fruit Snacks","Food - Snacks","NYSE",21
+"Pasta Sauce Mix","Food - Sauces","NASDAQ",9
+"Beach Cover-Up","Clothing - Swimwear","NYSE",20
+"Multi-Port USB Hub","Electronics","NYSE",70
+"Organic Whole Wheat Flour","Food - Baking Goods","NASDAQ",31
+"Wall-Mounted Bookshelf","Home","NASDAQ",49
+"Black Bean Salsa","Food - Snacks","NASDAQ",10
+"Handheld Garment Steamer","Home","NYSE",86
+"Almond Flour Cookies","Food - Bakery","NASDAQ",42
+"Electric Bike","Bicycles","NASDAQ",15
+"Pet Carrier Backpack","Pets","NASDAQ",65
+"Personalized Keychain","Accessories","NYSE",41
+"Cauliflower Pizza Crust","Food - Frozen Foods","NYSE",18
+"Ankle Boots","Clothing - Footwear","NASDAQ",79
+"Balsamic Salad Dressing","Food - Deli","NYSE",89
+"Eco-Friendly Disposable Plates","Kitchen","NASDAQ",2
+"Pet Travel Bed","Pets","NYSE",77
+"Tailored Dress Pants","Clothing - Bottoms","NASDAQ",99
+"Pasta Salad Kit","Food - Prepared Foods","NASDAQ",29
+"Multi-Purpose Plant Care Tool","Garden","NASDAQ",29
+"Maple Bacon Jerky","Food - Meat","NASDAQ",91
+"Oatmeal Raisin Cookies","Food - Baked Goods","NYSE",2
+"Bock Beer Mustard","Food - Condiments","NASDAQ",14
+"Portable Charcoal Grill","Outdoor","NASDAQ",60
+"Taro Chips","Food - Snacks","NYSE",57
+"Striped Long Sleeve Shirt","Clothing - Shirts","NYSE",16
+"LED Table Lamp","Home","NYSE",6
+"Sporty Slide Sandals","Clothing - Footwear","NASDAQ",2
+"Chicken Sausage","Food - Meat","NASDAQ",82
+"Mini Cordless Vacuum Cleaner","Home Appliances","NASDAQ",33
+"Mixed Nuts","Food - Snacks","NASDAQ",16
+"Pecan Nuts","Food - Snacks","NASDAQ",8
+"Chocolate Dipped Fruit","Food - Snacks","NASDAQ",78
+"Honey","Food - Condiments","NYSE",75
+"Emergency Preparedness Kit","Safety","NYSE",65
+"Instant Mashed Potatoes","Food - Sides","NYSE",78
+"Asian Salad Mix","Food - Produce","NYSE",89
+"Multi-Cooker","Kitchen","NYSE",14
+"Reusable Food Storage Bags","Kitchen","NYSE",92
+"Fleece Throw Blanket","Home","NYSE",94
+"Cabbage Slaw Mix","Food - Vegetables","NASDAQ",82
+"Handheld Vacuum","Home Appliances","NASDAQ",66
+"Frozen Salmon Filets","Food - Seafood","NASDAQ",49
+"Fleece Lined Leggings","Clothing","NYSE",2
+"Herbal Tea Set","Food","NASDAQ",100
+"Non-Stick Grill Mat","Outdoor","NYSE",21
+"Thai Peanut Dressing","Food - Condiments","NASDAQ",39
+"Fresh Strawberries","Food - Produce","NYSE",7
+"Feta Cheese Crumbles","Food - Dairy","NYSE",78
+"Chickpea Pancakes","Food - Frozen","NYSE",20
+"Fitness Tracker","Fitness","NASDAQ",30
+"Stylish Wide-Leg Trousers","Clothing - Bottoms","NASDAQ",35
+"Safety Goggles","Safety","NYSE",29
+"Gingerbread House Kit","Food - Baking","NASDAQ",38
+"Frozen Broccoli","Food - Frozen","NASDAQ",73
+"Portable Solar Camp Shower","Outdoor","NYSE",59
+"Electric Bike","Bicycles","NASDAQ",95
+"Herb Seasoned Couscous","Food - Grains","NYSE",86
+"Basil Tomato Soup","Food - Canned Soups","NASDAQ",52
+"Air Fryer","Kitchen","NYSE",6
+"Linen Trousers","Clothing - Bottoms","NYSE",72
+"Italian Breadsticks","Food - Bakery","NASDAQ",44
+"Basil-infused Olive Oil","Food - Cooking Oil","NYSE",92
+"Handmade Leather Wallet","Accessories","NYSE",33
+"Inflatable Pool Float","Outdoor","NYSE",90
+"Spinach Pizza Rolls","Food - Frozen Foods","NASDAQ",17
+"Reversible Comforter Set","Home","NYSE",50
+"Sea Salt Tortilla Chips","Food - Snacks","NYSE",87
+"Dishwasher Safe Cutting Board","Kitchen","NASDAQ",2
+"Compact Folding Table","Outdoor","NASDAQ",47
+"Sweet and Sour Sauce","Food - Condiments","NYSE",47
+"USB Desk Fan","Home","NASDAQ",35
+"Smoked Gouda Cheese","Food - Dairy","NASDAQ",52
+"Electric Heat Pad","Health","NASDAQ",5
+"Traditional Hummus","Food - Dips","NYSE",66
+"Electric Heat Press Machine","Crafts","NASDAQ",76
+"Peanut Butter Filled Pretzels","Food - Snacks","NASDAQ",59
+"Electric Butter Churn","Kitchen","NASDAQ",14
+"Colorful Post-It Notes Set","Office","NASDAQ",30
+"Sporty Leggings","Clothing - Activewear","NASDAQ",61
+"Pumpkin Pie Spice","Food - Baking","NYSE",46
+"Handmade Leather Wallet","Accessories","NASDAQ",31
+"Sun Protection Clothing","Clothing","NASDAQ",85
+"Frozen Berry Medley","Food - Frozen Foods","NYSE",10
+"Slingback Sandals","Clothing - Footwear","NASDAQ",47
+"Electric Rice Cooker with Steamer","Kitchen","NASDAQ",73
+"Organic Black Rice","Food - Grains","NASDAQ",88
+"Pet Bed with Removable Cover","Pets","NYSE",71
+"Organic Black Rice","Food - Grains","NASDAQ",60
+"Smoky BBQ Jackfruit","Food - Grocery","NYSE",100
+"Mango Sticky Rice Dessert","Food - Frozen Desserts","NASDAQ",66
+"Pet Hair Vacuum Cleaner Attachment","Pets","NASDAQ",69
+"Self-Watering Planter","Garden","NYSE",19
+"Induction Cooktop","Kitchen","NASDAQ",68
+"Solar String Lights","Outdoor","NYSE",95
+"Honey Garlic Chicken","Food - Meat","NASDAQ",77
+"Pork Tenderloin","Food - Meat","NASDAQ",59
+"Spinach Artichoke Dip","Food - Snacks","NYSE",88
+"Biodegradable Trash Bags","Home","NASDAQ",25
+"Fruit Medley Juice","Food - Beverages","NYSE",45
+"Luxury Memory Foam Mattress Topper","Home","NASDAQ",99
+"Pumpkin Spice Coffee","Food - Beverages","NYSE",6
+"Italian Breadsticks","Food - Bakery","NYSE",9
+"Compact Shoe Rack","Home","NASDAQ",28
+"Stylish Wireless Earbuds","Audio","NASDAQ",11
+"Carrot and Celery Sticks","Food - Produce","NASDAQ",20
+"Portable Camping Shower","Outdoor","NYSE",1
+"Fashionable Scarves Set","Clothing","NASDAQ",88
+"Compact Hair Dryer","Beauty","NASDAQ",38
+"Mint Chocolate Chip Ice Cream","Food - Frozen Desserts","NYSE",70
+"Microfiber Cleaning Cloth Set","Home","NASDAQ",36
+"Folding Exercise Bike","Fitness","NYSE",95
+"Silicone Baking Molds","Kitchen","NYSE",28
+"Dishwasher Safe Cutting Board","Kitchen","NYSE",63
+"USB Desk Fan","Home","NYSE",81
+"Pine Nuts","Food - Nuts","NASDAQ",20
+"Air Mattress","Outdoor","NASDAQ",97
+"Ramen Noodles","Food - Pasta","NYSE",15
+"Creamy Coleslaw Mix","Food - Produce","NYSE",82
+"Buffalo Chicken Wraps","Food - Prepared Meals","NASDAQ",48
+"Rustic Italian Breads","Food - Bakery","NASDAQ",16
+"Photo Album","Home","NYSE",65
+"Artisan Bread","Food - Bakery","NASDAQ",7
+"Spinach and Feta Stuffed Chicken Breast","Food - Meat","NASDAQ",99
+"Rice Noodles","Food - Grains","NASDAQ",55
+"Blueberry Oatmeal Cups","Food - Breakfast","NYSE",30
+"Coconut Almond Granola","Food - Breakfast","NASDAQ",14
+"Vintage Graphic Tee","Clothing - Tops","NASDAQ",52
+"Wooden Toy Train Set","Toys","NYSE",98
+"Kids' Art Easel","Toys","NASDAQ",66
+"Travel Laundry Bag","Travel","NASDAQ",69
+"Voice-Controlled Speaker","Audio","NYSE",76
+"Two-Tier Fruit Basket","Home","NYSE",27
+"Non-Stick Grill Mat","Outdoor","NYSE",45
+"Tailored Blazer","Clothing - Outerwear","NASDAQ",88
+"Pet Activity Tracker","Pets","NYSE",29
+"Pumpkin Spice Granola","Food - Breakfast","NYSE",13
+"BBQ Jackfruit","Food - Prepared Foods","NASDAQ",29
+"A-Line Skirt","Clothing - Bottoms","NASDAQ",79
+"Scented Candle Set","Home","NYSE",93
+"Pet Hair Vacuum Attachment","Pets","NASDAQ",72
+"Himalayan Pink Salt","Food - Condiments","NYSE",80
+"Smart Light Switch","Smart Home","NYSE",21
+"Casual Sneakers","Clothing - Footwear","NYSE",73
+"Travel Laundry Bag","Travel","NYSE",11
+"Fitness Jump Box","Fitness","NYSE",24
+"Frozen Chicken Nuggets","Food - Frozen Foods","NYSE",69
+"Lemon Herb Chicken","Food - Meat","NYSE",93
+"Creamy Spinach Dip","Food - Prepared Foods","NASDAQ",19
+"Camping Chair with Cooler","Outdoor","NYSE",36
+"Insulated Lunch Bag","Kitchen","NASDAQ",72
+"Roasted Garlic","Food - Condiments","NYSE",99
+"Wall Calendar","Home","NYSE",36
+"Tortilla Chips","Food - Snacks","NYSE",16
+"Zucchini Noodles","Food - Vegetables","NYSE",18
+"Blueberry Chia Jam","Food - Spreads","NASDAQ",96
+"Pork Tenderloin","Food - Meat","NYSE",20
+"Compact Electric Kettle","Kitchen","NYSE",48
+"Kettle Chip Variety Pack","Food - Snacks","NYSE",78
+"Apple Cinnamon Instant Oatmeal","Food - Cereal","NASDAQ",93
+"Quinoa","Food - Grains","NYSE",44
+"Wireless Gaming Mouse","Gaming","NYSE",2
+"Lightweight Backpacking Tent","Outdoor","NASDAQ",16
+"Automatic Pet Feeder","Pets","NYSE",11
+"Balsamic Fig Dressing","Food - Condiments","NASDAQ",100
+"Garlic Breadsticks","Food - Sides","NASDAQ",26
+"Oven Thermometer","Kitchen","NASDAQ",63
+"Foot Massager Machine","Health","NYSE",36
+"Personalized Pet ID Tags","Pets","NYSE",96
+"Foldable Picnic Table","Outdoor","NASDAQ",31
+"Tomato Basil Soup","Food - Canned Goods","NYSE",10
+"Whole Wheat Pasta","Food - Grains","NASDAQ",68
+"Multi-Purpose Scissors","Office","NASDAQ",46
+"Stainless Steel Cutlery Set","Kitchen","NASDAQ",3
+"Zesty Garlic Marinade","Food - Condiments","NASDAQ",17
+"White Rice","Food - Grains","NYSE",49
+"Sweet Potato Chips","Food - Snacks","NYSE",99
+"Frozen Edamame","Food - Frozen Foods","NASDAQ",38
+"Travel Pillow","Travel","NYSE",18
+"Cauliflower Pizza Crust","Food - Frozen Foods","NASDAQ",94
+"Digital Camera","Electronics","NASDAQ",2
+"Spicy Thai Noodles","Food - Frozen Meals","NYSE",53
+"Hummus Trio Pack","Food - Snacks","NASDAQ",81
+"Reversible Swimming Pool Lounger","Outdoor","NASDAQ",89
+"Hummus Trio Pack","Food - Snacks","NASDAQ",44
+"Coconut Macaroons","Food - Confectionery","NASDAQ",72
+"Honey Garlic Chicken","Food - Meat","NYSE",73
+"Chickpea Pancakes","Food - Frozen","NASDAQ",63
+"Asian Stir-Fry Kit","Food - Frozen Meals","NYSE",6
+"Miso Soup Starter","Food - Soups","NASDAQ",16
+"Feta Cheese Crumbles","Food - Dairy","NASDAQ",55
+"Laptop Backpack","Accessories","NYSE",91
+"Whole Grain Cereal","Food - Breakfast","NASDAQ",80
+"Jigsaw Puzzle","Toys","NASDAQ",84
+"Frozen Salmon Filets","Food - Seafood","NYSE",85
+"Spinach Pizza Rolls","Food - Frozen Foods","NASDAQ",61
+"Soft Plush Throw Blanket","Home","NASDAQ",59
+"Kale and Quinoa Salad","Food - Salads","NYSE",90
+"Pineapple Salsa","Food - Condiments","NYSE",94
+"Nature Explorer Lens Kit","Toys","NASDAQ",82
+"Peach Mango Smoothie Mix","Food - Beverages","NYSE",66
+"Whipped Cream Cheese","Food - Dairy","NASDAQ",6
+"Smartwatch","Wearable Tech","NYSE",70
+"Corn Tortillas","Food - Bakery","NYSE",88
+"Inspirational Wall Art","Home","NYSE",74
+"Pineapple Coconut Rice Mix","Food - Grains","NASDAQ",6
+"Essential Oil Roller Bottles","Health","NYSE",96
+"Bamboo Utensil Holder","Kitchen","NASDAQ",33
+"Thai Coconut Curry Sauce","Food - Condiments","NYSE",32
+"Nut Mix","Food - Snacks","NASDAQ",47
+"Herbed Chicken Breast","Food - Meat","NYSE",29
+"Turkey Bacon","Food - Meat","NASDAQ",2
+"Car Windshield Sun Shade","Automotive","NYSE",21
+"Spiralizer","Kitchen","NYSE",15
+"Vanilla Ice Cream","Food - Frozen Foods","NASDAQ",11
+"Portable Camping Stove","Outdoor","NASDAQ",7
+"Savory Oatmeal","Food - Breakfast","NASDAQ",82
+"Magnetic Puzzle Board","Toys","NASDAQ",56
+"Almond Joy Protein Bars","Food - Snacks","NASDAQ",78
+"Peanut Butter Banana Smoothie","Food - Beverages","NASDAQ",58
+"Premium Flashlight","Outdoor","NASDAQ",32
+"Smart Air Purifier","Home","NASDAQ",11
+"Blender Bottle","Fitness","NYSE",88
+"Free-Range Eggs","Food - Dairy","NYSE",77
+"Garlic Butter Shrimp","Food - Seafood","NYSE",67
+"Ginger Turmeric Shots","Food - Beverages","NASDAQ",51
+"Electric Pressure Washer","Home Improvement","NYSE",12
+"Electric Butter Churn","Kitchen","NYSE",92
+"Magnetic Phone Car Mount","Automotive","NYSE",38
+"Pecan Pie Filling","Food - Baking Goods","NYSE",53
+"Oats","Food - Grains","NASDAQ",89
+"Thyme","Food - Fresh Produce","NASDAQ",79
+"Oven-Baked Sweet Potato Fries","Food - Frozen Foods","NYSE",20
+"Instant Mashed Potatoes","Food - Sides","NYSE",75
+"Frozen Berry Blend","Food - Frozen Foods","NYSE",3
+"Cucumber Relish","Food - Condiments","NASDAQ",47
+"Creamy Ranch Dressing","Food - Dressings","NASDAQ",54
+"Whisk Set","Kitchen","NYSE",68
+"Luxury Bathrobe","Clothing","NASDAQ",24
+"Pet Training Pads","Pets","NYSE",57
+"Travel Makeup Organizer","Beauty","NASDAQ",73
+"Tuna Fish (canned)","Food - Canned Goods","NASDAQ",78
+"Luxe Velvet Blazer","Clothing - Outerwear","NASDAQ",88
+"Air Fryer","Kitchen","NYSE",57
+"Kale Salad with Lemon Dressing","Food - Salads","NASDAQ",66
+"Herb-Infused Olive Oil","Food - Oils","NYSE",62
+"Pineapple Coconut Yogurt","Food - Dairy","NASDAQ",12
+"Warm Knit Beanie","Clothing - Accessories","NYSE",14
+"Ready-to-Eat Chili","Food - Soups","NYSE",38
+"Savory Mushroom Risotto","Food - Gourmet Rice","NYSE",9
+"Car Diagnostic Scanner","Automotive","NASDAQ",93
+"Mediterranean Chickpea Salad","Food - Salads","NYSE",92
+"Bird Feeder","Outdoor","NYSE",58
+"Flavored Instant Oatmeal","Food - Breakfast","NASDAQ",30
+"Mini Indoor Herb Garden Kit","Garden","NYSE",100
+"LED Camping Lantern with USB Charging","Outdoor","NYSE",78
+"Pepperoni Pizza Roll-Ups","Food - Frozen Foods","NASDAQ",44
+"Wooden Puzzle Game","Toys","NYSE",29
+"Peach Preserves","Food - Condiments","NASDAQ",81
+"Mango Chunks","Food - Frozen Fruits","NASDAQ",4
+"Coconut Curry Sauce","Food - Sauces","NYSE",36
+"Italian Marinara Sauce","Food - Sauces","NASDAQ",8
+"Dishwasher Safe Cutting Board","Kitchen","NYSE",45
+"Organic Quinoa Salad","Food - Prepared Meals","NASDAQ",96
+"Collapsible Camping Cup","Outdoor","NYSE",24
+"Raspberry Lemonade Mix","Food - Beverages","NASDAQ",62
+"Set of Herb Garden Markers","Garden","NASDAQ",80
+"Organic Whole Grain Oats","Food - Breakfast","NASDAQ",65
+"Electric Heat Pad","Health","NYSE",26
+"Beard Grooming Kit","Grooming","NYSE",83
+"Wild Rice Pilaf","Food - Grains","NASDAQ",44
+"Hibiscus Herbal Tea","Food - Beverages","NASDAQ",20
+"Matcha Green Tea Powder","Food - Beverages","NASDAQ",96
+"Home Karaoke System","Audio","NYSE",98
+"Fruit Medley Juice","Food - Beverages","NASDAQ",33
+"Outdoor Camping Lantern","Outdoor","NASDAQ",28
+"Italian Pasta","Food - Grains","NASDAQ",74
+"Adjustable Bar Stools","Furniture","NASDAQ",10
+"Pineapple Coconut Yogurt","Food - Dairy","NASDAQ",33
+"Compact Shoe Rack","Home","NYSE",12
+"Spicy Salsa Verde","Food - Condiments","NASDAQ",78
+"Folding Exercise Bike","Fitness","NASDAQ",25
+"Digital Bullet Journal","Apps","NASDAQ",43
+"Granola Bars","Food - Snacks","NASDAQ",84
+"Portable Solar Path Lights","Outdoor","NASDAQ",98
+"Zucchini Noodles","Food - Vegetables","NYSE",74
+"Peach Fruit Cups","Food - Snacks","NASDAQ",21
+"Frozen Acai Purée","Food - Frozen","NYSE",13
+"Radish Chips","Food - Snacks","NASDAQ",84
+"Glass Tea Pot","Kitchen","NASDAQ",85
+"Casual Cropped Sweater","Clothing - Sweaters","NYSE",52
+"Avocado Lime Dressing","Food - Condiments","NYSE",63
+"Baby Monitor","Baby","NYSE",82
+"Teriyaki Stir-Fry Sauce","Food - Condiments","NYSE",11
+"Bluetooth Shower Speaker","Audio","NYSE",21
+"Spicy Kimchi","Food - Condiments","NYSE",65
+"Multi-Cooker","Kitchen","NYSE",3
+"Foam Roller for Muscle Recovery","Fitness","NYSE",40
+"Vegan chocolate chip cookies","Food - Bakery","NYSE",42
+"Creamy Garlic Mashed Potatoes","Food - Sides","NYSE",47
+"Glass Food Containers","Kitchen","NASDAQ",81
+"Smartphone UV Sanitizer","Health","NASDAQ",74
+"Wireless Earbud Silicone Covers","Accessories","NASDAQ",54
+"Hibiscus Herbal Tea","Food - Beverages","NASDAQ",55
+"Frozen Chicken Nuggets","Food - Frozen Foods","NASDAQ",11
+"Bike Repair Tool Kit","Outdoor","NASDAQ",85
+"Pesto Pasta Sauce","Food - Sauces","NYSE",27
+"Basil-infused Olive Oil","Food - Cooking Oil","NASDAQ",51
+"Digital Voice Recorder","Electronics","NYSE",95
+"Field Journal","Books","NASDAQ",29
+"Bluetooth Shower Speaker","Audio","NYSE",37
+"Oven Mitts with Pocket","Kitchen","NASDAQ",36
+"Tomato Sauce","Food - Canned Goods","NYSE",62
+"Pasta Salad Kit","Food - Prepared Foods","NYSE",53
+"Chocolate Mint Protein Shake","Food - Beverages","NYSE",20
+"Board Game","Toys","NYSE",35
+"Self-Massaging Pillow","Health","NYSE",93
+"Dish Soap Dispenser","Kitchen","NASDAQ",74
+"Biodegradable Phone Case","Accessories","NYSE",31
+"Infrared Space Heater","Home Appliances","NASDAQ",48
+"Party Mini Dress","Clothing - Dresses","NASDAQ",76
+"Key Finder","Accessories","NASDAQ",70
+"Thai Green Curry Paste","Food - Sauces","NYSE",3
+"Mixed Nuts","Food - Snacks","NASDAQ",26
+"Vegetable Stir-Fry Kit","Food - Produce","NYSE",17
+"Salsa Verde","Food - Condiments","NYSE",66
+"Infrared Space Heater","Home Appliances","NYSE",58
+"Kids' Art Easel","Toys","NYSE",24
+"Crispy Onion Rings","Food - Frozen Foods","NASDAQ",13
+"Smartphone Photography Ring Light","Photography","NASDAQ",82
+"Pet Grooming Brush","Pets","NASDAQ",57
+"Electric Bike","Bicycles","NASDAQ",58
+"Blue Denim Jeans","Clothing - Bottoms","NASDAQ",25
+"Electric Hot Pot","Kitchen","NYSE",20
+"Garlic Naan Bread","Food - Bakery","NYSE",86
+"Adjustable Dog Harness","Pets","NYSE",100
+"Non-Stick Baking Sheets","Kitchen","NASDAQ",42
+"Baked Mac and Cheese","Food - Frozen Foods","NASDAQ",14
+"Caramel Apple Taffy","Food - Confectionery","NASDAQ",97
+"Knitted Infinity Scarf","Clothing - Accessories","NYSE",84
+"Sliced Turkey Breast","Food - Deli Meats","NASDAQ",61
+"Self-Adhesive Wallpaper","Home","NASDAQ",74
+"Peach Salsa","Food - Dips","NASDAQ",19
+"Wireless Mouse","Electronics","NASDAQ",75
+"LED Desk Lamp with USB Charging","Office","NASDAQ",77
+"Vegetable Pizza Rolls","Food - Frozen Foods","NYSE",58
+"Asian Stir-Fry Vegetables","Food - Frozen Foods","NYSE",73
+"LED Strip Lights Kit","Home","NASDAQ",79
+"Dish Rack","Kitchen","NYSE",83
+"Coconut Cream Pie","Food - Bakery","NYSE",7
+"USB Flash Drive","Storage","NASDAQ",43
+"Dishwasher Safe Cutting Board","Kitchen","NYSE",52
+"Lemon Dill Salmon","Food - Seafood","NYSE",23
+"Rainbow Veggie Chips","Food - Snacks","NYSE",96
+"Customizable Wall Calendar","Office","NASDAQ",68
+"Vegetable Quinoa Bowl","Food - Frozen Meals","NASDAQ",93
+"Stainless Steel Cutlery Set","Kitchen","NASDAQ",83
+"Coffee Making Kit","Kitchen","NYSE",14
+"Pasta Portion Control Measure","Kitchen","NYSE",12
+"Pasta Maker Machine","Kitchen","NASDAQ",15
+"Balsamic Vinegar","Food - Condiments","NASDAQ",21
+"Chickpeas","Food - Canned Goods","NYSE",14
+"Classic Vanilla Fudge","Food - Desserts","NYSE",43
+"Party Mini Dress","Clothing - Dresses","NYSE",85
+"Lemon Herb Grilled Chicken","Food - Meat","NYSE",97
+"Fresh Strawberries","Food - Produce","NYSE",16
+"Gardening Tool Belt","Garden","NASDAQ",41
+"Almond Butter","Food - Condiments","NASDAQ",38
+"Greek Yogurt","Food - Dairy","NASDAQ",34
+"Solar String Lights","Outdoor","NASDAQ",14
+"Athletic Compression Tights","Clothing - Activewear","NASDAQ",17
+"Mango Chilli Sauce","Food - Condiments","NASDAQ",66
+"Shatterproof Wine Glasses","Outdoor","NYSE",36
+"Caramel Apple Chips","Food - Snacks","NASDAQ",5
+"Bicycle Lock","Bicycles","NASDAQ",23
+"Smoked Paprika","Food - Spices","NASDAQ",96
+"Green Smoothie Mix","Food - Beverages","NASDAQ",77
+"Vegetarian Stir Fry Sauce","Food - Condiments","NYSE",10
+"Scented Soy Candles","Home","NASDAQ",93
+"Tea Infuser Bottle","Kitchen","NYSE",2
+"Magnetic Spice Containers","Kitchen","NYSE",3
+"Mini Food Processor","Kitchen","NASDAQ",63
+"Coconut Curry Lentils","Food - Canned Goods","NYSE",93
+"Thai Green Curry Paste","Food - Sauces","NASDAQ",16
+"Smart WiFi Plug","Smart Home","NASDAQ",91
+"Chickpea Pasta","Food - Pasta","NASDAQ",87
+"Portable Projector","Electronics","NYSE",66
+"Vegan Chickpea Salad","Food - Prepared Foods","NASDAQ",37
+"Coconut Rice","Food - Frozen","NASDAQ",96
+"Vegan Tacos","Food - Frozen Foods","NYSE",36
+"Sesame Garlic Noodles","Food - Pasta","NASDAQ",42
+"Cinnamon Raisin Bread","Food - Bakery","NYSE",83
+"Fitness Balance Ball","Fitness","NYSE",43
+"Cabbage","Food - Produce","NASDAQ",8
+"Tabletop Fire Pit","Outdoor","NASDAQ",100
+"Roasted Chickpeas","Food - Snacks","NASDAQ",81
+"Eco-Friendly Beeswax Wraps","Kitchen","NASDAQ",56
+"Compact Electric Kettle","Kitchen","NYSE",69
+"Over-the-Door Shoe Organizer","Home","NASDAQ",79
+"Outdoor Portable Fire Pit","Outdoor","NYSE",43
+"Foot Spa Bath Massager","Health","NASDAQ",84
+"Ski Goggles","Sports","NASDAQ",92
+"Greek Yogurt Parfait","Food - Dairy","NASDAQ",49
+"Portable Bluetooth Keyboard","Electronics","NYSE",2
+"Feta Cheese Crumbles","Food - Dairy","NYSE",11
+"Peach Preserves","Food - Condiments","NASDAQ",13
+"Multi-Function Meat Tenderizer","Kitchen","NASDAQ",65
+"Beef Stroganoff Meal Kit","Food - Frozen Meals","NYSE",68
+"Oven-Baked Parmesan Zucchini","Food - Frozen Vegetables","NYSE",30
+"Tea Infuser Bottle","Kitchen","NASDAQ",25
+"Travel Eye Mask with Ear Plugs","Travel","NYSE",42
+"Smart LED Light Strip","Home","NYSE",67
+"Feta Cheese Crumbles","Food - Dairy","NYSE",30
+"Herbed Couscous","Food - Grains","NYSE",87
+"Honey Mustard Dip","Food - Condiments","NYSE",7
+"Tomato Basil Pasta Sauce","Food - Sauces","NASDAQ",95
+"Ceramic Planter Set","Home","NASDAQ",70
+"Body Wash","Beauty","NYSE",66
+"Roasted Garlic Butter","Food - Condiments","NYSE",34
+"Chocolate Syrup","Food - Condiments","NASDAQ",37
+"Garden Vegetable Chips","Food - Snacks","NASDAQ",51
+"Honey Mustard Pretzel Bites","Food - Snacks","NASDAQ",83
+"Silicone Cooking Utensils Set","Kitchen","NASDAQ",83
+"Sunglasses Case","Accessories","NYSE",5
+"Solar String Lights","Outdoor","NYSE",80
+"Graphic Sweatshirt","Clothing - Tops","NASDAQ",16
+"Stuffed Grape Leaves","Food - Prepared Foods","NYSE",71
+"Spinach Feta Wraps","Food - Deli","NYSE",50
+"Roasted Garlic Mashed Potatoes","Food - Frozen Foods","NYSE",63
+"Kale Chips","Food - Snacks","NYSE",75
+"Chic Jumpsuit","Clothing - Jumpsuits","NASDAQ",61
+"Digital Wireless Meat Thermometer","Kitchen","NYSE",25
+"Wireless Car Charger","Automotive","NASDAQ",57
+"Coffee Maker","Kitchen","NYSE",73
+"Collapsible Storage Crates","Home","NYSE",51
+"Almond Butter Cookies","Food - Snacks","NYSE",65
+"Biodegradable Trash Bags","Home","NASDAQ",29
+"Cable Knit Cardigan","Clothing - Outerwear","NYSE",83
+"Natural Peanut Butter","Food - Spreads","NASDAQ",94
+"Electric Toothbrush Holder","Health","NASDAQ",12
+"Teriyaki Chicken Stir-Fry","Food - Frozen Foods","NASDAQ",67
+"Organic Vanilla Bean Ice Cream","Food - Frozen Desserts","NASDAQ",62
+"Aged White Cheddar Popcorn","Food - Snacks","NASDAQ",85
+"Portable Pet Pooper Scooper","Pets","NASDAQ",13
+"Sliced Bread","Food - Bakery","NASDAQ",55
+"Cinnamon Roll Protein Bar","Food - Snacks","NYSE",46
+"Spinach and Feta Wraps","Food - Prepared Foods","NYSE",21
+"Self-Watering Planter","Garden","NASDAQ",12
+"Wrist Support Brace","Health","NYSE",59
+"Cauliflower Rice Stir-Fry","Food - Frozen Foods","NYSE",21
+"Decorative Throw Pillows","Home","NASDAQ",30
+"Chic Ankle Strap Heels","Clothing - Shoes","NASDAQ",14
+"Outdoor Mosquito Repellent Lantern","Outdoor","NASDAQ",74
+"Canned Coconut Milk","Food - Canned Goods","NYSE",47
+"Whole Chicken","Food - Meat","NYSE",25
+"Wrap Front Midi Skirt","Clothing - Bottoms","NASDAQ",26
+"Sparkling Blood Orange Soda","Food - Beverages","NASDAQ",81
+"Yoga Mat Carrier","Fitness","NASDAQ",2
+"Children's Garden Tool Set","Garden","NASDAQ",66
+"Noise-Canceling Earbuds","Audio","NASDAQ",34
+"Multi-Port USB Hub","Electronics","NYSE",12
+"Almond Milk Yogurt","Food - Dairy Alternatives","NYSE",32
+"LED Christmas Tree Lights","Home","NASDAQ",34
+"Canned Sardines","Food - Seafood","NYSE",7
+"Maple Bacon Jerky","Food - Meat","NYSE",93
+"Comfortable Bed Pillow","Home","NASDAQ",80
+"Honey Sesame Chicken","Food - Frozen Food","NYSE",60
+"Memory Foam Pillow","Home","NYSE",19
+"Herb Drying Rack","Garden","NYSE",97
+"Fitness Tracker Band","Fitness","NYSE",40
+"Herb Seasoned Rice","Food - Sides","NASDAQ",85
+"Smartphone UV Sanitizer","Health","NYSE",72
+"Peanut Butter Chocolate Chip Bars","Food - Snacks","NYSE",75
+"Over-The-Door Shoe Organizer","Home","NYSE",82
+"Ice Cube Tray with Lid","Kitchen","NASDAQ",52
+"Cranberry Almond Granola","Food - Breakfast","NYSE",5
+"Hiking Water Bottle with Filter","Outdoor","NASDAQ",64
+"Adjustable Stand for Tablets and Smartphones","Electronics","NASDAQ",8
+"Pasta (Linguine)","Food - Pasta","NYSE",53
+"Garlic Herb Cream Cheese","Food - Dairy","NYSE",85
+"Sparkling Blood Orange Soda","Food - Beverages","NYSE",73
+"Travel Orthopedic Pillow","Travel","NYSE",65
+"Belted Trench Coat","Clothing - Outerwear","NASDAQ",18
+"Portable Ice Maker","Kitchen","NYSE",80
+"Animal Paw Print Soap Dispenser","Home","NYSE",45
+"Maple Almond Butter","Food - Nut Butters","NYSE",97
+"Portable Solar Phone Charger","Electronics","NYSE",81
+"Himalayan Pink Salt","Food - Condiments","NASDAQ",57
+"Sliced Avocado","Food - Produce","NASDAQ",98
+"Elderberry Syrup Kit","Health","NYSE",9
+"Children's Educational Workbook","Books","NYSE",97
+"Graphic Hoodie","Clothing - Outerwear","NYSE",11
+"Pesto Pasta Salad","Food - Prepared Foods","NYSE",75
+"Almond Butter Cookies","Food - Snacks","NYSE",60
+"Buffalo Cauliflower Bites","Food - Freezer","NASDAQ",94
+"Honey Roasted Peanuts","Food - Snacks","NASDAQ",78
+"Coconut Almond Granola","Food - Breakfast","NYSE",11
+"Grapes (red)","Food - Produce","NYSE",18
+"Cinnamon Sugar Popcorn","Food - Snacks","NASDAQ",91
+"Classic Bagels","Food - Bakery","NASDAQ",83
+"Surimi Crab Sticks","Food - Seafood","NASDAQ",42
+"Electric Air Pump","Outdoor","NYSE",24
+"Slim Fit Chinos","Clothing - Pants","NYSE",52
+"Breathable Face Mask Set","Health","NYSE",50
+"Organic Ramen Noodles","Food - Pasta","NYSE",75
+"Dark Chocolate Bars","Food - Snacks","NASDAQ",46
+"Organic Brown Sugar","Food - Baking","NYSE",49
+"Chickpeas","Food - Canned Goods","NYSE",52
+"Breathable Face Mask Set","Health","NASDAQ",10
+"Herbed Mushroom Risotto","Food - Prepared Foods","NASDAQ",52
+"Pest Control Traps","Home","NASDAQ",45
+"Pet Hair Removal Roller","Pets","NASDAQ",83
+"Bamboo Toothbrush","Health","NYSE",97
+"Sports Bottle","Fitness","NASDAQ",82
+"Creamy Coleslaw Mix","Food - Produce","NASDAQ",30
+"Sporty Cap","Clothing - Accessories","NASDAQ",93
+"Hot Dog Buns","Food - Bakery","NYSE",46
+"Snap-On Tupperware Set","Kitchen","NYSE",33
+"Kitchen Knife Sharpening System","Kitchen","NYSE",2
+"Asian Stir-Fry Kit","Food - Frozen Meals","NASDAQ",66
+"Wireless Smart Plug","Smart Home","NYSE",23
+"Digital Drawing Tablet","Art Supplies","NASDAQ",70
+"Dog Training Collar","Pets","NYSE",88
+"Herb Garlic Butter","Food - Condiments","NYSE",24
+"Soft Plush Throw Blanket","Home","NASDAQ",11
+"Almond Flour Brownies","Food - Baking","NASDAQ",80
+"Fitness Jump Rope with LCD Counter","Fitness","NYSE",37
+"Comfy Slippers","Footwear","NYSE",69
+"Bluetooth Sleep Headphones","Audio","NYSE",21
+"Eco-Friendly Cleaning Cloths","Home","NASDAQ",55
+"Peanut Butter Banana Smoothie","Food - Beverages","NYSE",18
+"Granulated Sugar","Food - Baking","NASDAQ",91
+"Non-Stick Baking Sheets","Kitchen","NASDAQ",8
+"Almond Milk","Food - Dairy","NYSE",54
+"Floral Wrap Top","Clothing - Tops","NYSE",11
+"Portable Speaker Stand","Audio","NYSE",49
+"Cranberry Orange Juice","Food - Beverages","NYSE",34
+"Deep Tissue Massage Gun","Health","NYSE",71
+"Honey Mustard Dip","Food - Condiments","NYSE",74
+"Almond Butter","Food - Condiments","NASDAQ",85
+"Creamy Tomato Basil Soup","Food - Canned Goods","NYSE",53
+"Peanut Butter Protein Balls","Food - Snacks","NASDAQ",40
+"Buffalo Chicken Dip","Food - Dips","NASDAQ",88
+"Outdoor Sports Backpack","Outdoor","NYSE",57
+"LED Flashlight","Outdoor","NASDAQ",21
+"Sooji (Semolina)","Food - Baking","NASDAQ",84
+"Computer Monitor Stand","Office","NYSE",82
+"Insulated Lunch Bag","Kitchen","NASDAQ",18
+"Garden Hose Reel","Garden","NASDAQ",22
+"Dishwasher Safe Cutting Board","Kitchen","NASDAQ",87
+"Brazil Nuts","Food - Nuts","NYSE",8
+"Biodegradable Dog Waste Bags","Pets","NYSE",14
+"Pumpkin Pie Spice","Food - Baking","NYSE",79
+"Peanut Butter Granola","Food - Breakfast","NYSE",6
+"Pepperoni Pizza Roll-Ups","Food - Frozen Foods","NYSE",63
+"Sweet Potatoes","Food - Produce","NASDAQ",61
+"Nordic Berry Smoothie","Food - Frozen Foods","NASDAQ",43
+"Peach Halves (canned)","Food - Canned Goods","NASDAQ",24
+"Pet Travel Carrier","Pets","NYSE",18
+"Weighted Blanket for Adults","Health","NASDAQ",49
+"Dog Waste Bag Dispenser","Pets","NASDAQ",65
+"French Bread","Food - Bakery","NYSE",46
+"Sustainable Wooden Toys","Toys","NYSE",43
+"Maple Pecan Oatmeal Cookies","Food - Bakery","NYSE",49
+"Sunglasses","Accessories","NASDAQ",14
+"Pasta (Linguine)","Food - Pasta","NASDAQ",41
+"Cheddar Cheese Crackers","Food - Snacks","NASDAQ",8
+"Wireless Charging Pad","Accessories","NASDAQ",2
+"Sous Vide Cooker","Kitchen","NASDAQ",17
+"Kale Caesar Salad Kit","Food - Salads","NASDAQ",21
+"Oven-Baked Parmesan Zucchini","Food - Frozen Vegetables","NYSE",12
+"Sweetened Condensed Milk","Food - Baking Goods","NYSE",83
+"Sweet Chili Dipping Sauce","Food - Condiments","NYSE",99
+"Vegetarian Sausage Links","Food - Meat Substitutes","NYSE",96
+"Craft Beer Mustard","Food - Condiments","NYSE",2
+"Cocktail Shaker Set","Kitchen","NASDAQ",24
+"Coconut Curry Lentil Soup","Food - Canned Goods","NASDAQ",64
+"Samoas Cookie Mix","Food - Baking","NYSE",18
+"Multi-Layer Food Steamer","Kitchen","NYSE",5
+"Jennifer's Amazing Lip Balm Kit","Beauty","NASDAQ",87
+"Rolling Cooler","Outdoor","NYSE",1
+"Portable Air Compressor","Automotive","NYSE",87
+"Herbal Tea Variety Pack","Food - Beverages","NASDAQ",22
+"LED Disco Ball Light","Home","NASDAQ",73
+"Chickpea Flour","Food - Baking","NASDAQ",84
+"Casual Long Cardigan","Clothing - Outerwear","NASDAQ",17
+"Honey Graham Crackers","Food - Snacks","NYSE",60
+"Personalized Pet ID Tags","Pets","NASDAQ",25
+"Portable Speakers","Audio","NYSE",9
+"Crispy Kale Chips","Food - Snacks","NASDAQ",22
+"Lightweight Rain Jacket","Clothing - Outerwear","NASDAQ",59
+"Cranberry Lime Sparkling Water","Food - Beverages","NYSE",6
+"Spicy BBQ Sauce","Food - Condiments","NASDAQ",41
+"Compact Electric Kettle","Kitchen","NYSE",44
+"Toilet Paper (12 rolls)","Food - Household","NYSE",34
+"Sesame Ginger Dressing","Food - Condiments","NASDAQ",95
+"Chino Shorts","Clothing - Bottoms","NYSE",32
+"Sweet BBQ Dipping Sauce","Food - Condiments","NASDAQ",31
+"Travel Pillow","Travel","NASDAQ",18
+"Car Seat Organizer","Automotive","NYSE",96
+"Chicken Broth","Food - Canned Goods","NYSE",29
+"Smartphone Hand Grip","Accessories","NASDAQ",69
+"Honey Sesame Chicken","Food - Frozen Food","NASDAQ",31
+"Pet Water Bottle","Pets","NYSE",92
+"LED Christmas Tree Lights","Home","NYSE",37
+"Peach Mango Smoothie Mix","Food - Beverages","NYSE",16
+"Dog Training Collar","Pets","NASDAQ",30
+"Animal Paw Print Soap Dispenser","Home","NYSE",4
+"Balsamic Salad Dressing","Food - Deli","NASDAQ",56
+"French Onion Dip","Food - Condiments","NYSE",88
+"Organic Italian Seasoning","Food - Spices","NYSE",15
+"Energy Bites","Food - Snacks","NASDAQ",87
+"High-Low Hem Tee","Clothing - Tops","NYSE",69
+"Professional Chef Knife","Kitchen","NASDAQ",57
+"Canned Coconut Milk","Food - Canned Goods","NASDAQ",34
+"Car Sunshade","Automotive","NYSE",72
+"Pest Control Traps","Home","NASDAQ",74
+"Hand Crank Blender","Kitchen","NASDAQ",3
+"Sliced Avocado","Food - Produce","NYSE",72
+"Electronic Drum Kit","Music","NYSE",20
+"Multi-Function Meat Tenderizer","Kitchen","NYSE",40
+"Dark Chocolate Covered Almonds","Food - Snacks","NASDAQ",63
+"Ceramic Bakeware Set","Kitchen","NYSE",54
+"Savory Mushroom Risotto","Food - Gourmet Rice","NYSE",62
+"Sun-Dried Tomato Pesto","Food - Condiments","NYSE",2
+"Ceramic Knife Set","Kitchen","NYSE",91
+"Elegant Lace Dress","Clothing - Dresses","NYSE",2
+"Outdoor Adventure Kit","Outdoor","NASDAQ",56
+"Pet Hair Remover","Pets","NASDAQ",93
+"Essential White Button-Up","Clothing - Shirts","NASDAQ",25
+"Baby Safety Corner Guards","Baby","NASDAQ",85
+"Elderberry Syrup","Food - Supplements","NYSE",93
+"Fall-Themed Table Runner","Home","NYSE",51
+"Ceramic Cookware Set","Kitchen","NYSE",32
+"Avocados","Food - Produce","NYSE",64
+"Portable Solar Path Lights","Outdoor","NYSE",88
+"Cream Cheese","Food - Dairy","NYSE",89
+"Whole Chicken","Food - Meat","NASDAQ",31
+"Baked Potato Chips","Food - Snacks","NYSE",63
+"Nut Butter Cups","Food - Snacks","NYSE",94
+"Hibiscus Tea Bags","Food - Beverages","NASDAQ",35
+"Fruit and Nut Energy Bites","Food - Snacks","NASDAQ",71
+"Oats","Food - Grains","NYSE",28
+"Freestanding Wine Rack","Home","NASDAQ",27
+"Collapsible Folding Chair","Outdoor","NYSE",68
+"Canvas Wall Art","Home","NASDAQ",55
+"Carrot Ginger Soup","Food - Soups","NYSE",21
+"Classic White T-Shirt","Clothing - Tops","NASDAQ",56
+"Almond Crunch Granola Bars","Food - Snacks","NYSE",97
+"Set of Measuring Spoons","Kitchen","NYSE",11
+"Cold Brew Coffee Maker","Kitchen","NYSE",52
+"Roasted Garlic","Food - Condiments","NASDAQ",7
+"Apple Juice","Food - Beverages","NASDAQ",17
+"Gaming Mousepad","Gaming","NASDAQ",19
+"Electric Toothbrush Holder","Health","NASDAQ",22
+"Deluxe First Aid Kit","Health","NASDAQ",83
+"Pumpkin Spice Pancake Mix","Food - Breakfast","NYSE",68
+"Gardening Fairy Figurines","Garden","NYSE",92
+"Reversible Comforter Set","Home","NYSE",63
+"Belted Trench Coat","Clothing - Outerwear","NASDAQ",14
+"Ripped Boyfriend Jeans","Clothing - Bottoms","NASDAQ",38
+"Brownie Bites","Food - Baked Goods","NYSE",3
+"Customizable Name Plate","Office","NASDAQ",73
+"Athletic Jogging Jacket","Clothing - Outerwear","NASDAQ",53
+"Crispy Onion Rings","Food - Frozen Foods","NASDAQ",34
+"Wireless Induction Charger","Electronics","NYSE",63
+"Honey Roasted Almonds","Food - Snacks","NASDAQ",66
+"Savory Oats","Food - Breakfast","NASDAQ",23
+"Coconut Curry Sauce","Food - Sauces","NASDAQ",87
+"Cauliflower Rice Stir-Fry","Food - Frozen Foods","NYSE",81
+"Pumpkin Spice Muffins","Food - Bakery","NASDAQ",62
+"Kids' Art Supplies Kit","Toys","NYSE",31
+"Cranberry Citrus Sauce","Food - Condiments","NYSE",45
+"Decorative Throw Blanket","Home","NASDAQ",31
+"Almond Butter Cups","Food - Snacks","NASDAQ",3
+"Mini Hand Gesture Drone","Toys","NASDAQ",60
+"Adjustable Yoga Mat Strap","Fitness","NASDAQ",57
+"Pineapple Teriyaki Chicken Mix","Food - Meat","NYSE",52
+"Pasta Salad Kit","Food - Prepared Foods","NASDAQ",60
+"Lightweight Travel Backpack","Travel","NASDAQ",31
+"Smartphone Tripod with Bluetooth Remote","Photography","NASDAQ",79
+"LED Canopy Lights","Outdoor","NYSE",81
+"Smartphone Gimbal Stabilizer","Photography","NYSE",17
+"Chicken Sausage","Food - Meat","NYSE",58
+"Sweet Potatoes (organic)","Food - Vegetables","NASDAQ",1
+"Vegetable Chips","Food - Snacks","NYSE",43
+"Mini Pretzels","Food - Snacks","NYSE",73
+"Folding Table","Outdoor","NASDAQ",96
+"Frozen Salmon Filets","Food - Seafood","NASDAQ",32
+"Ricotta Cheese","Food - Dairy","NYSE",98
+"Personalized Pet ID Tags","Pets","NYSE",6
+"Shredded Cheese","Food - Dairy","NASDAQ",71
+"Peanut Butter Chocolate Chip Bars","Food - Snacks","NASDAQ",48
+"Soft Plush Throw Blanket","Home","NASDAQ",19
+"Self-Inflating Camping Mattress","Outdoor","NASDAQ",99
+"Dog Training Collar","Pets","NASDAQ",52
+"Cranberry Almond Granola","Food - Breakfast","NYSE",99
+"Electric Butter Churn","Kitchen","NASDAQ",66
+"Car Windshield Sun Shade","Automotive","NASDAQ",27
+"Dried Fruit Medley","Food - Snacks","NYSE",71
+"Utility Cargo Pants","Clothing - Pants","NASDAQ",86
+"Almond Coconut Granola","Food - Breakfast Foods","NASDAQ",40
+"Vegetable and Cheese Quesadillas","Food - Frozen","NASDAQ",22
+"Italian Breadsticks","Food - Bakery","NASDAQ",8
+"Peanut Butter Cookies","Food - Bakery","NYSE",97
+"Chickpea Salad Deluxe","Food - Produce","NASDAQ",89
+"Coffee Capsule Dispenser","Kitchen","NYSE",71
+"Adjustable Kneeling Pad","Garden","NYSE",3
+"Chipotle Sauce","Food - Condiments","NASDAQ",8
+"Electric Toothbrush Holder","Health","NYSE",5
+"Orange Ginger Vinaigrette","Food - Condiments","NASDAQ",80
+"A-Line Skirt","Clothing - Bottoms","NYSE",55
+"Pumpkin Pie Spice","Food - Baking","NYSE",88
+"Cocoa Powder","Food - Baking","NASDAQ",41
+"Wall-Mounted Spice Rack","Kitchen","NASDAQ",83
+"Cacao Nibs","Food - Baking","NYSE",95
+"Almond Flour Pizza Crust","Food - Frozen Foods","NYSE",68
+"Crispy Onion Rings","Food - Frozen Foods","NASDAQ",94
+"Caraway Rye Bread","Food - Bakery","NASDAQ",73
+"Reusable Food Storage Bags","Kitchen","NASDAQ",58
+"Wireless Charging Station","Electronics","NASDAQ",74
+"Sparkling Blood Orange Soda","Food - Beverages","NYSE",18
+"Almond Milk Yogurt","Food - Dairy Alternatives","NASDAQ",76
+"Pepper Jack Cheese Slices","Food - Dairy","NYSE",31
+"Outdoor Camping Hammock","Outdoor","NASDAQ",72
+"Cheese Stuffed Jalapenos","Food - Snacks","NASDAQ",85
+"Organic Almonds","Food - Nuts","NYSE",99
+"Folding Exercise Bike","Fitness","NYSE",11
+"Foam Roller for Muscle Recovery","Fitness","NASDAQ",26
+"Lentils","Food - Grains","NASDAQ",76
+"Adjustable Pedicure Footrest","Beauty","NASDAQ",17
+"Vegan Protein Powder","Health","NYSE",97
+"Graphic Sweatshirt","Clothing - Tops","NASDAQ",22
+"Vegan chocolate chip cookies","Food - Bakery","NASDAQ",12
+"Caraway Rye Bread","Food - Bakery","NASDAQ",33
+"Couscous","Food - Grains","NASDAQ",96
+"Teriyaki Beef Jerky","Food - Snacks","NYSE",72
+"Wireless Range Extender","Electronics","NYSE",18
+"Raspberry Tart","Food - Baked Goods","NYSE",5
+"Italian Pasta","Food - Grains","NYSE",55
+"Trail Mix (Deluxe)","Food - Snacks","NYSE",86
+"DIY Candle Making Kit","Crafts","NYSE",5
+"Ricotta Cheese","Food - Dairy","NASDAQ",12
+"Vegetable Quinoa Bowl","Food - Frozen Meals","NYSE",18
+"Electric Egg Cooker","Kitchen","NASDAQ",98
+"Pressure Washer Accessories Kit","Home Improvement","NYSE",29
+"Thai Green Curry Paste","Food - Sauces","NYSE",82
+"Board Game","Toys","NYSE",26
+"Photo Album","Home","NASDAQ",89
+"LED Table Lamp","Home","NASDAQ",5
+"High-Speed Blender","Kitchen","NYSE",57
+"Inflatable Paddle Board","Outdoor","NASDAQ",86
+"Garden Hose Reel","Garden","NYSE",53
+"Digital Bullet Journal","Apps","NASDAQ",35
+"Smoky BBQ Jackfruit","Food - Grocery","NASDAQ",100
+"Sriracha Chili Sauce","Food - Condiments","NYSE",29
+"Electric Opener for Jars and Bottles","Kitchen","NASDAQ",3
+"Cocktail Shaker Set","Kitchen","NASDAQ",93
+"Sliced Strawberries","Food - Fruits","NASDAQ",86
+"Pineapple Chunks (canned)","Food - Fruits","NASDAQ",11
+"Siphon Coffee Maker","Kitchen","NASDAQ",95
+"Honey Butter Popcorn","Food - Snacks","NASDAQ",33
+"Scented Candles","Home","NYSE",40
+"Feta Cheese Crumbles","Food - Dairy","NASDAQ",33
+"Crispy Kale Chips","Food - Snacks","NYSE",68
+"Travel Jewelry Case","Accessories","NYSE",30
+"Digital Food Scale","Kitchen","NYSE",91
+"Cocktail Shaker and Mixing Glass Set","Kitchen","NYSE",21
+"Pet Reflective Vest","Pets","NASDAQ",81
+"Fitness Jump Rope with LCD Counter","Fitness","NYSE",10
+"Smartphone Camera Lens Kit","Photography","NASDAQ",23
+"Wireless Smart Plug","Smart Home","NYSE",68
+"Self-Massaging Pillow","Health","NYSE",60
+"Travel Sewing Kit","Travel","NASDAQ",28
+"Cotton Quilted Throw Blanket","Home","NASDAQ",67
+"Adjustable Laptop Stand","Office","NYSE",76
+"Savory Trail Mix","Food - Snacks","NASDAQ",33
+"Cheesy Broccoli Soup Mix","Food - Soups","NYSE",78
+"Maple Breakfast Sausage","Food - Meat","NASDAQ",61
+"Bamboo Cutting Board Set","Kitchen","NASDAQ",78
+"Poppy Seed Dressing","Food - Condiments","NYSE",93
+"Savory Oatmeal Cups","Food - Breakfast","NYSE",12
+"Frozen Broccoli","Food - Frozen","NYSE",70
+"Chicken Broth","Food - Canned Goods","NASDAQ",68
+"Fleece Throw Blanket","Home","NASDAQ",8
+"Plaid Flannel Shirt","Clothing - Tops","NASDAQ",5
+"Nature Explorer Lens Kit","Toys","NYSE",12
+"Elegant Maxi Skirt","Clothing - Bottoms","NYSE",64
+"Lemon Herb Grilled Chicken","Food - Meat","NASDAQ",65
+"Chocolate Mint Thins","Food - Snacks","NYSE",20
+"Peanut Butter Chocolate Chip Bars","Food - Snacks","NYSE",79
+"Apple Sauce","Food - Canned Goods","NYSE",55
+"Baby Safety Corner Guards","Baby","NYSE",62
+"Adjustable Yoga Mat Strap","Fitness","NYSE",94
+"Vegan Taco Seasoning","Food - Spices","NASDAQ",38
+"Digital Photo Frame","Home","NYSE",49
+"Spinach Feta Wraps","Food - Deli","NYSE",43
+"Manual Coffee Grinder","Kitchen","NYSE",33
+"Bamboo Toothbrush","Health","NASDAQ",85
+"Travel Sewing Kit","Travel","NASDAQ",75
+"Classic Slim Fit Shirt","Clothing - Shirts","NASDAQ",2
+"Kids' Science Experiment Kit","Toys","NYSE",80
+"Almond Butter Cups","Food - Snacks","NYSE",51
+"Pasta (Linguine)","Food - Pasta","NASDAQ",83
+"Yoga Wheel","Fitness","NASDAQ",36
+"Sweetened Condensed Milk","Food - Baking Goods","NASDAQ",82
+"Durable Hiking Boots","Footwear","NYSE",83
+"Bluetooth Shower Speaker","Audio","NASDAQ",26
+"Turmeric Ginger Tea","Food - Beverages","NASDAQ",73
+"Portable Speakers","Audio","NYSE",90
+"Vegetable Fried Rice","Food - Frozen Foods","NASDAQ",45
+"Water-Resistant Bluetooth Speaker","Audio","NYSE",77
+"Nutty Granola Clusters","Food - Cereal","NYSE",54
+"Yoga Strap","Fitness","NASDAQ",34
+"Car Seat Organizer","Automotive","NASDAQ",78
+"Fitness Tracker","Fitness","NYSE",26
+"Video Camera","Electronics","NASDAQ",16
+"Animal Paw Print Soap Dispenser","Home","NASDAQ",54
+"Herbed Couscous","Food - Grains","NYSE",85
+"Smartphone Car Mount with Wireless Charging","Automotive","NYSE",81
+"Ginger Turmeric Shots","Food - Beverages","NASDAQ",10
+"Pasta (Fusilli)","Food - Pasta","NASDAQ",17
+"Savory Trail Mix","Food - Snacks","NASDAQ",53
+"Sushi Rice","Food - Grains","NASDAQ",47
+"Camping Chair with Cooler","Outdoor","NASDAQ",74
+"Vegetable Broth","Food - Canned Goods","NYSE",37
+"Portable Charger with Solar Panel","Electronics","NASDAQ",18
+"Carrot Ginger Soup","Food - Soups","NYSE",58
+"Baby Safety Corner Guards","Baby","NYSE",26
+"Dog Training Clicker","Pets","NYSE",45
+"Organic Honeycrisp Apples","Food - Fruits","NASDAQ",37
+"Stylish Combat Boots","Clothing - Shoes","NYSE",81
+"Cinnamon Sugar Mix","Food - Baking","NASDAQ",27
+"Garden Tool Belt","Garden","NYSE",19
+"Smartphone Photography Ring Light","Photography","NYSE",67
+"Dog Car Seat Cover","Pets","NYSE",44
+"Skincare Set","Beauty","NASDAQ",91
+"Smartphone Tripod with Remote","Photography","NYSE",30
+"Car Phone Mount","Automotive","NYSE",60
+"Pear and Gorgonzola Salad","Food - Salads","NYSE",56
+"Stuffed Grape Leaves","Food - Prepared Foods","NASDAQ",67
+"Potting Soil","Garden","NASDAQ",98
+"Personal Blender","Kitchen","NASDAQ",95
+"Sporty Cap","Clothing - Accessories","NYSE",19
+"Classic Baseball Cap","Clothing - Accessories","NYSE",54
+"Buttermilk Pancakes","Food - Breakfast","NYSE",73
+"Savory Rice Cakes","Food - Snacks","NASDAQ",51
+"Basil Lemonade","Food - Beverages","NASDAQ",61
+"Bamboo Bathtub Caddy","Home","NASDAQ",31
+"Truffle Parmesan Fries","Food - Snacks","NASDAQ",57
+"Organic Whole Grain Oats","Food - Breakfast","NYSE",69
+"Strawberry Banana Smoothie Pack","Food - Frozen","NASDAQ",95
+"Non-Slip Yoga Socks","Fitness","NYSE",1
+"Window Blinds","Home","NASDAQ",74
+"Quinoa Salad","Food - Prepared Foods","NASDAQ",30
+"Portable Camping Shower","Outdoor","NYSE",83
+"Mini Cordless Vacuum Cleaner","Home Appliances","NASDAQ",21
+"Coconut Milk","Food - Canned Goods","NYSE",6
+"Comfortable Jogger Pants","Clothing - Bottoms","NYSE",85
+"Smart Water Bottle with Hydration Reminder","Fitness","NYSE",49
+"Voice-Controlled Speaker","Audio","NASDAQ",89
+"Mini Projector for Smartphones","Electronics","NASDAQ",88
+"Animal Paw Print Soap Dispenser","Home","NYSE",52
+"Non-Stick Baking Sheets","Kitchen","NYSE",54
+"Desk Lamp with USB Port","Office","NYSE",72
+"Non-Stick Grill Mat","Outdoor","NASDAQ",84
+"Digital Voice Recorder","Electronics","NASDAQ",54
+"Raspberry Lemonade Mix","Food - Beverages","NYSE",80
+"Self-Cleaning Water Bottle","Fitness","NASDAQ",33
+"Organic Green Apples","Food - Produce","NASDAQ",2
+"Mediterranean Flatbread","Food - Bakery","NYSE",82
+"High-Speed HDMI Cable","Electronics","NYSE",98
+"Under Desk Footrest","Office","NASDAQ",36
+"Chicken Breasts","Food - Meat","NYSE",22
+"Peach Preserves","Food - Condiments","NYSE",88
+"Herbal Tea Infuser","Kitchen","NYSE",32
+"Screen Cleaning Kit","Electronics","NASDAQ",56
+"Smartphone Holder for Car","Automotive","NYSE",40
+"Cotton Tote Bag Set","Accessories","NASDAQ",89
+"Car Vacuum Cleaner","Automotive","NYSE",39
+"Caramelized Onion Dip","Food - Dairy","NASDAQ",30
+"Pet Hair Remover","Pets","NASDAQ",51
+"Portable Solar Charger","Electronics","NYSE",87
+"Salsa Verde","Food - Condiments","NYSE",78
+"Samoas Cookie Mix","Food - Baking","NYSE",58
+"Aged White Cheddar Popcorn","Food - Snacks","NASDAQ",20
+"Beef Enchilada Casserole","Food - Prepared Meals","NASDAQ",54
+"Non-Slip Yoga Socks","Fitness","NYSE",73
+"Cordless Water Flosser","Health","NASDAQ",100
+"Chopping Board","Kitchen","NASDAQ",4
+"Kids Tablet","Electronics","NASDAQ",9
+"Linen Trousers","Clothing - Bottoms","NASDAQ",94
+"Bodyweight Resistance Bands","Fitness","NASDAQ",46
+"Pasta Maker","Kitchen","NASDAQ",35
+"Computer Monitor Stand","Office","NASDAQ",21
+"Two-Tone Windbreaker","Clothing - Outerwear","NASDAQ",67
+"Portable Leaf Blower","Outdoor","NASDAQ",60
+"Car Escape Tool","Automotive","NYSE",45
+"Almond Quinoa Salad","Food - Salads","NYSE",44
+"Microwave Popcorn Maker","Kitchen","NYSE",46
+"Classic Pumps","Clothing - Footwear","NASDAQ",36
+"Compact Umbrella","Accessories","NASDAQ",72
+"Noise Reduction Headphones","Audio","NASDAQ",38
+"Travel Mug with Leak-Proof Lid","Kitchen","NASDAQ",81
+"Garlic Breadsticks","Food - Sides","NYSE",94
+"Soft Plush Throw Blanket","Home","NASDAQ",76
+"Personal Safety Alarm","Safety","NASDAQ",63
+"Pine Nuts","Food - Nuts","NASDAQ",93
+"Wireless Earbuds","Audio","NYSE",27
+"Portable Bluetooth Headphones","Audio","NASDAQ",79
+"Rice Pilaf Mix","Food - Grains","NASDAQ",25
+"Adjustable Laptop Stand","Office","NASDAQ",56
+"Chic Ankle Strap Heels","Clothing - Shoes","NASDAQ",66
+"Pork Chops","Food - Meat","NASDAQ",78
+"Blue Denim Jeans","Clothing - Bottoms","NYSE",84
+"Vanilla Pudding Mix","Food - Baking","NASDAQ",39
+"Craft Beer Mustard","Food - Condiments","NYSE",73
+"Beef Stroganoff Meal Kit","Food - Frozen Meals","NYSE",79
+"Magnetic Puzzle Board","Toys","NYSE",22
+"Organic Cereal Bars","Food - Snacks","NYSE",3
+"Portable Air Purifier","Health","NYSE",62
+"Travel Pillow with Memory Foam","Travel","NYSE",84
+"Wall-Mounted Spice Rack","Kitchen","NASDAQ",4
+"Deluxe First Aid Kit","Health","NASDAQ",50
+"Apple Cinnamon Oatmeal","Food - Breakfast","NASDAQ",99
+"Lentil Soup (canned)","Food - Canned Goods","NYSE",98
+"Ripped Boyfriend Jeans","Clothing - Bottoms","NASDAQ",32
+"Garlic Herb Seasoning","Food - Spices","NASDAQ",49
+"Wireless Mouse","Electronics","NASDAQ",92
+"Herb-Infused Olive Oil","Food - Oils","NASDAQ",51
+"Digital Photo Frame","Home","NYSE",100
+"Electric Heat Press Machine","Crafts","NYSE",59
+"Luminous Night Light","Home","NASDAQ",99
+"Essential White Button-Up","Clothing - Shirts","NYSE",81
+"Freestanding Wine Rack","Home","NASDAQ",5
+"Travel Hair Straightener","Beauty","NYSE",94
+"Chocolate Avocado Pudding","Food - Desserts","NYSE",98
+"Honey Lemon Tea","Food - Beverages","NASDAQ",53
+"Olive Oil","Food - Condiments","NYSE",29
+"Indestructible Dog Toy","Pets","NASDAQ",38
+"Cotton Pajama Set","Clothing - Loungewear","NASDAQ",11
+"Gardening Fairy Figurines","Garden","NASDAQ",94
+"Ginger Tea","Food - Beverages","NASDAQ",58
+"Stainless Steel Water Pitcher","Kitchen","NASDAQ",90
+"Casual Sneakers","Clothing - Footwear","NASDAQ",61
+"Tortilla Chips","Food - Snacks","NASDAQ",44
+"Sun-Dried Tomatoes","Food - Vegetables","NASDAQ",17
+"Microfiber Cleaning Cloths","Home","NASDAQ",30
+"Creamy Spinach Dip","Food - Prepared Foods","NASDAQ",4
+"Peanut Butter Protein Balls","Food - Snacks","NYSE",15
+"Magnetic Chess Set","Toys","NYSE",84
+"Protein Powder","Fitness","NYSE",25
+"Printed Maxi Skirt","Clothing - Skirts","NASDAQ",67
+"Aeropress Coffee Maker","Kitchen","NYSE",36
+"Travel Makeup Organizer","Beauty","NYSE",35
+"Ergonomic Mouse Pad with Wrist Support","Office","NYSE",71
+"Automatic Pet Feeder","Pets","NASDAQ",6
+"Vegetarian Pizza","Food - Frozen Foods","NASDAQ",80
+"Frozen Cauliflower Rice","Food - Frozen Foods","NYSE",68
+
+994 lignes sélectionnées. 
+

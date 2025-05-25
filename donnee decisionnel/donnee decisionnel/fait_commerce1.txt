@@ -1,0 +1,931 @@
+"CATEGORIE","REGION","TAUXRETOUR"
+"Home","Huayuan",3
+"Home","Huochezhan",3
+"Home","Igreja",2
+"Home","Jomsom",1
+"Home","Kalinkavichy",2
+"Home","Kamaris",8
+"Home","Karakul’",2
+"Home","Kyurdarmir",2
+"Home","La Caya",2
+"Home","Lacroix-Saint-Ouen",0
+"Home","Lau",0
+"Home","Lilio",61
+"Home","Lubbock",10
+"Home","Lukou",2
+"Home","Melati",45
+"Home","Monsanto",2
+"Home","München",2
+"Home","Nelson",0
+"Home","Nueva Italia",1
+"Home","Ocoruro",4
+"Home","Orsk",7
+"Home","Pandat",2
+"Home","Papágou",4
+"Home","Parnaíba",2
+"Home","Piribebuy",61
+"Home","Poços de Caldas",0
+"Home","Qingzhou",1
+"Home","Quezon",2
+"Home","Repnoye",1
+"Home","San Juan",6
+"Home","Sanjiang",2
+"Home","Susoh",2
+"Home","Tais",2
+"Home","Thompson",1
+"Home","Utmānzai",3
+"Home","Verona",45
+"Home","Voloka",2
+"Home","Wucheng",61
+"Home","Yancheng",0
+"Home","Yeghvard",2
+"Home","Zili",7
+"Home","Zunilito",2
+"Home Appliances","Ash Shajarah",2
+"Home Appliances","Badar",2
+"Home Appliances","Bébédja",2
+"Home Appliances","Beiyuan",17
+"Home Appliances","Burujul",0
+"Home Appliances","Dortmund",2
+"Home Appliances","Langxi",2
+"Home Appliances","San Casimiro",17
+"Home Improvement","Baizhang",1
+"Home Improvement","Barrie",1
+"Home Improvement","Pumaqangtang",1
+"Home Improvement","Tangjiakou",1
+"Kitchen","Al Qardāḩah",2
+"Kitchen","Baishi",0
+"Kitchen","Banjarejo",0
+"Kitchen","Belén",1
+"Kitchen","Brnaze",1
+"Kitchen","Bununu Dass",2
+"Kitchen","Chikeng",1
+"Kitchen","Disūq",0
+"Kitchen","Doblas",2
+"Kitchen","Duotian",1
+"Kitchen","Fucheng",4
+"Kitchen","General Alvear",8
+"Kitchen","Guanzhuang",14
+"Kitchen","Heiheba",1
+"Kitchen","Hetai",2
+"Kitchen","Ibusuki",7
+"Kitchen","Izingolweni",6
+"Kitchen","Jiaodai",3
+"Kitchen","Jinji",2
+"Kitchen","Kasserine",1
+"Kitchen","Kolokani",9
+"Kitchen","Kotel’va",4
+"Kitchen","Kuching",3
+"Kitchen","Kuta",3
+"Kitchen","La Caya",1
+"Kitchen","Lanat",2
+"Kitchen","Lavandeira",3
+"Kitchen","Los Cedrales",2
+"Kitchen","Luzhi",0
+"Kitchen","Madīnat Ḩamad",3
+"Kitchen","Mambago",20
+"Kitchen","Manlucahoc",0
+"Kitchen","Mansa",0
+"Kitchen","Mariental",28
+"Kitchen","Maruoka",28
+"Kitchen","Matou",53
+"Kitchen","Mira",41
+"Kitchen","Moratuwa",1
+"Kitchen","Nieying",1
+"Kitchen","Oliveira",5
+"Kitchen","Pak Phanang",53
+"Kitchen","Piskavica",7
+"Kitchen","Poříčany",1
+"Kitchen","Pointe-à-Pitre",1
+"Kitchen","Pār Naogaon",1
+"Kitchen","Quilmaná",41
+"Kitchen","Riangbao",0
+"Kitchen","Rolândia",14
+"Kitchen","Sala",2
+"Kitchen","San Miguel",4
+"Kitchen","Sangmélima",24
+"Kitchen","Satsumasendai",2
+"Kitchen","Shuikou",3
+"Kitchen","Soutelo",5
+"Kitchen","Strömsund",1
+"Kitchen","Tagdanua",3
+"Kitchen","Takayama",2
+"Kitchen","Tarogong",3
+"Kitchen","Thívai",7
+"Kitchen","Trzebinia",1
+"Kitchen","Tuncheng",20
+"Kitchen","Ḑubāh",9
+"Kitchen","Ujazd",4
+"Kitchen","Uji",2
+"Kitchen","Ungca",8
+"Kitchen","Vallentuna",1
+"Kitchen","Vary",0
+"Kitchen","Victoria West",4
+"Kitchen","Yantan",8
+"Kitchen","Yingde’er",1
+"Kitchen","Zengjia",4
+"Office","Cazin",4
+"Office","Disūq",1
+"Office","Guisijan",37
+"Office","Klang",37
+"Office","Tulungrejo",2
+"Outdoor","Aţ Ţaybah",3
+"Outdoor","Aemura",2
+"Outdoor","Amiens",1
+"Outdoor","Andalan",4
+"Outdoor","Araguari",2
+"Outdoor","Burgas",9
+"Outdoor","Cesson",1
+"Outdoor","Chinju",2
+"Outdoor","Cielądz",2
+"Outdoor","Ciepielów",5
+"Outdoor","Darnah",11
+"Outdoor","Dawang",1
+"Outdoor","Divnoye",1
+"Outdoor","Dnestrovsc",28
+"Outdoor","Eisen",1
+"Outdoor","Foz do Arelho",2
+"Outdoor","Fukui-shi",1
+"Outdoor","Guojiazhuang",2
+"Outdoor","Henggang",28
+"Outdoor","Huajlaya",25
+"Outdoor","Huasahuasi",6
+"Outdoor","Huayuan",28
+"Outdoor","Hujiaying",2
+"Outdoor","Jardim da Serra",1
+"Outdoor","Kyurdarmir",1
+"Outdoor","Laurel",3
+"Outdoor","Llanera",1
+"Outdoor","Ludwigshafen am Rhein",4
+"Outdoor","Nagrumbuan",3
+"Outdoor","Nguru",1
+"Outdoor","Nueva Italia",19
+"Outdoor","Owando",4
+"Outdoor","Pančevo",5
+"Outdoor","Porosozero",6
+"Outdoor","Puget-sur-Argens",5
+"Outdoor","Repnoye",1
+"Outdoor","Saboyá",4
+"Outdoor","Santander",2
+"Outdoor","Sawo",2
+"Outdoor","Subotica",2
+"Outdoor","Suwangi Utara",3
+"Outdoor","Tanout",0
+"Outdoor","Tanuma",5
+"Outdoor","Tegalsari",2
+"Outdoor","Umeå",6
+"Outdoor","Zunilito",1
+"Pets","Alavieska",1
+"Pets","Amashca",24
+"Pets","Buenavista",1
+"Pets","Chwaszczyno",1
+"Pets","Dishnā",1
+"Pets","Eirunepé",2
+"Pets","Gaotan",10
+"Pets","Hengshan",24
+"Pets","Landerneau",1
+"Pets","Las Ánimas",7
+"Pets","Lena",0
+"Pets","Ōnojō",24
+"Pets","Paniqui",2
+"Pets","Poços de Caldas",3
+"Pets","Puubheto",0
+"Pets","Rawa Mazowiecka",7
+"Pets","Sambirobyong",7
+"Pets","Smokvica",7
+"Pets","Sovetskiy",7
+"Pets","Stockholm",10
+"Pets","Taiping",3
+"Pets","Varberg",2
+"Pets","Vera Cruz",2
+"Pets","Zaki Biam",1
+"Pets","Zhishan",0
+"Photography","Aemura",2
+"Photography","Grenoble",3
+"Photography","Horní Jelení",1
+"Photography","Santander",2
+"Photography","Tamandaré",1
+"Safety","Petushki",0
+"Safety","Salvacion",0
+"Safety","Seattle",0
+"Safety","Vitoria-Gasteiz",2
+"Smart Home","Kibara",2
+"Smart Home","Subotica",1
+"Sports","Blantyre",2
+"Sports","Florestópolis",1
+"Sports","Thívai",3
+"Sports","Uji",2
+"Toys","Al Jawādīyah",0
+"Toys","Budapest",3
+"Toys","Croix",2
+"Toys","Jabłonica Polska",3
+"Toys","Rozhniv",1
+"Toys","Rudy",1
+"Toys","Thanh Xuân",22
+"Toys","Trzebinia",1
+"Toys","Xiniu",4
+"Travel","Al Qardāḩah",2
+"Travel","Beiwenquan",0
+"Travel","Berlin",14
+"Travel","Camplong",4
+"Travel","Dupi",4
+"Travel","El Tabo",2
+"Travel","Enriquillo",1
+"Travel","Honghe",4
+"Travel","Horodyshche",0
+"Travel","Huang’ao",2
+"Travel","Jinji",2
+"Travel","Khadan Khāk",4
+"Travel","Martensville",4
+"Travel","Riit",2
+"Travel","Takayama",2
+"Travel","Tijão",6
+"Travel","Xiping",1
+"Accessories","Heiheba",1
+"Accessories","Mirnyy",1
+"Accessories","Payao",1
+"Accessories","San Juan",5
+"Accessories","Strömsund",1
+"Accessories","Xiaozhen",2
+"Accessories","Young",1
+"Accessories","20 de Noviembre",6
+"Apps","Kieta",2
+"Art Supplies","Chambéry",0
+"Art Supplies","Zhangguanying",0
+"Audio","Buenavista",1
+"Audio","Głogów Małopolski",7
+"Audio","Hengxizhen",1
+"Audio","Jakubowice Murowane",0
+"Audio","Kachug",7
+"Audio","Levallois-Perret",4
+"Audio","Moratuwa",6
+"Audio","Prokhladnyy",1
+"Audio","Rixi",4
+"Audio","Vallentuna",2
+"Automotive","Baishuiyang",5
+"Automotive","Banyumas",31
+"Automotive","Budzów",7
+"Automotive","Delicias",12
+"Automotive","Dugu",31
+"Automotive","Guanshan",2
+"Automotive","Lazaro Cardenas",2
+"Automotive","Malgobek",7
+"Automotive","Mykonos",7
+"Automotive","Pa Tio",68
+"Automotive","Polepy",2
+"Automotive","Seixo de Manhoses",2
+"Automotive","Valongo",2
+"Automotive","Xianyi",2
+"Baby","Auna",13
+"Baby","Dishnā",3
+"Baby","Tržič",1
+"Beauty","Cururupu",3
+"Beauty","Gexi",0
+"Beauty","Norak",0
+"Beauty","Podgórzyn",2
+"Beauty","Trélazé",1
+"Bicycles","Kisai",1
+"Bicycles","Nouna",1
+"Books","Mellila",4
+"Clothing","Bobigny",1
+"Clothing","Gaoping",2
+"Clothing","Gustavsberg",2
+"Clothing","Muaratiga",0
+"Clothing","Rubio",1
+"Clothing - Accessories","Buenos Aires",0
+"Clothing - Accessories","Göteborg",3
+"Clothing - Accessories","Hägersten",1
+"Clothing - Accessories","Melaka",3
+"Clothing - Accessories","Point Pedro",1
+"Clothing - Activewear","Huasahuasi",1
+"Clothing - Activewear","Lyambir’",1
+"Clothing - Activewear","Porosozero",1
+"Clothing - Activewear","Pulosari",1
+"Clothing - Activewear","Umeå",1
+"Clothing - Bottoms","Açu",3
+"Clothing - Bottoms","Kaduketug",3
+"Clothing - Bottoms","Korisós",8
+"Clothing - Bottoms","Kultayevo",3
+"Clothing - Bottoms","Madamba",2
+"Clothing - Bottoms","Müllendorf",2
+"Clothing - Bottoms","Phú Thái",2
+"Clothing - Bottoms","Rozhniv",21
+"Clothing - Bottoms","Rudy",21
+"Clothing - Bottoms","Sucun",3
+"Clothing - Dresses","Kolokani",1
+"Clothing - Footwear","Foz do Arelho",22
+"Clothing - Footwear","Galaz",1
+"Clothing - Footwear","Guadalupe",1
+"Clothing - Footwear","Nol",1
+"Clothing - Outerwear","Ad Dann",11
+"Clothing - Outerwear","Balta",11
+"Clothing - Outerwear","Bununu Dass",1
+"Clothing - Outerwear","Dongdong",3
+"Clothing - Outerwear","Līgatne",1
+"Clothing - Outerwear","Ojrzeń",11
+"Clothing - Outerwear","Qiryat Motzkin",1
+"Clothing - Outerwear","Sabnie",12
+"Clothing - Outerwear","Santa María Chiquimula",2
+"Clothing - Outerwear","Wattegama",12
+"Clothing - Pants","Croix",4
+"Clothing - Shirts","Matou",0
+"Clothing - Shirts","Pak Phanang",0
+"Clothing - Shoes","Andalan",0
+"Clothing - Shoes","Dacudao",0
+"Clothing - Shoes","Ludwigshafen am Rhein",0
+"Clothing - Shoes","Saboyá",0
+"Clothing - Shoes","Yulin",0
+"Clothing - Tops","Dapawan",1
+"Clothing - Tops","Fukui-shi",5
+"Clothing - Tops","Izingolweni",3
+"Clothing - Tops","Llanera",5
+"Clothing - Tops","Masaya",19
+"Crafts","Macau",2
+"Crafts","Maunuri",1
+"Electronics","Bazi",1
+"Electronics","Dalupaon",4
+"Electronics","Dianfang",1
+"Electronics","Heiheba",11
+"Electronics","Kutampi",1
+"Electronics","Lonya Chico",1
+"Electronics","Mambago",10
+"Electronics","Olszówka",1
+"Electronics","San Miguel",3
+"Electronics","Strömsund",11
+"Electronics","Tijão",15
+"Electronics","Tuncheng",10
+"Electronics","Xiangshun",1
+"Fitness","Åby",1
+"Fitness","Adar",1
+"Fitness","Al Miftāḩ",15
+"Fitness","Bobigny",3
+"Fitness","Damanhūr",2
+"Fitness","Horodyshche",3
+"Fitness","Kadudampit",0
+"Fitness","Kema",2
+"Fitness","Lanling",2
+"Fitness","Las Ánimas",1
+"Fitness","Mabamba",15
+"Fitness","Manzë",2
+"Fitness","Orong",3
+"Fitness","Pingdingshan",20
+"Fitness","Podolí",3
+"Fitness","Pubu",20
+"Fitness","Rawa Mazowiecka",1
+"Fitness","Rubio",3
+"Fitness","Sala",27
+"Fitness","San Isidro",1
+"Fitness","San Sebastián",3
+"Fitness","Santiago De Compostela",5
+"Fitness","Sawo",2
+"Fitness","Sempol",2
+"Fitness","Tabasalu",0
+"Fitness","Thị Xã Lai Châu",1
+"Fitness","Toulouse",2
+"Fitness","Tsuma",3
+"Fitness","Ust’-Uda",1
+"Food - Baked Goods","Beiwenquan",2
+"Food - Baked Goods","Kelaniya",1
+"Food - Baked Goods","Kosaya Gora",295
+"Food - Baked Goods","Lanling",1
+"Food - Baked Goods","Lerum",1
+"Food - Baked Goods","Manzë",1
+"Food - Baked Goods","20 de Noviembre",2
+"Food - Bakery","Banyumas",1
+"Food - Bakery","Curuzú Cuatiá",3
+"Food - Bakery","Dongbang",1
+"Food - Bakery","Dongyuan",1
+"Food - Bakery","Dugu",1
+"Food - Bakery","El Hamma",7
+"Food - Bakery","Hujiaying",3
+"Food - Bakery","Ipu",6
+"Food - Bakery","Jengglungharjo",7
+"Food - Bakery","Kragan",1
+"Food - Bakery","Lujiao",0
+"Food - Bakery","Minuyan",0
+"Food - Bakery","Moratuwa",0
+"Food - Bakery","Nanchoc",0
+"Food - Bakery","Novokizhinginsk",1
+"Food - Bakery","Pontevedra",14
+"Food - Bakery","Primero de Enero",1
+"Food - Bakery","Rongcheng",7
+"Food - Bakery","San Juan",1
+"Food - Bakery","San Narciso",0
+"Food - Bakery","Tegalsari",1
+"Food - Bakery","Toulouse",1
+"Food - Bakery","Unidad",2
+"Food - Bakery","Victoria",1
+"Food - Bakery","Watodei",1
+"Food - Bakery","Xiaozhen",4
+"Food - Baking","Calancuasan Norte",1
+"Food - Baking","Curahuasi",1
+"Food - Baking","Kecskemét",5
+"Food - Baking","Ke’erlun",1
+"Food - Baking","Luján de Cuyo",5
+"Food - Baking","Nanbin",49
+"Food - Baking","Paris La Défense",8
+"Food - Baking","Rosh Ha‘Ayin",8
+"Food - Baking","Simão Dias",8
+"Food - Baking","Sukasada",7
+"Food - Baking","Tokmok",81
+"Food - Baking","Trzebinia",3
+"Food - Baking","Xinzha",1
+"Food - Baking Goods","Bayang",4
+"Food - Baking Goods","Burujul",0
+"Food - Baking Goods","Jungutbatu Kaja Dua",1
+"Food - Baking Goods","Pickering",4
+"Food - Baking Goods","Popayán",1
+"Food - Beverages","Ḩawallī",2
+"Food - Beverages","Błędów",1
+"Food - Beverages","Bilovods'k",2
+"Food - Beverages","Bucu Kidul",3
+"Food - Beverages","Cururupu",14
+"Food - Beverages","Dapawan",2
+"Food - Beverages","Gamboula",2
+"Food - Beverages","Japeri",1
+"Food - Beverages","Jiaodai",0
+"Food - Beverages","Lidingö",3
+"Food - Beverages","Macaíba",8
+"Food - Beverages","Madīnat Ḩamad",3
+"Food - Beverages","Markaz Bilād aţ Ţa‘ām",2
+"Food - Beverages","Matou",1
+"Food - Beverages","Ōnojō",4
+"Food - Beverages","Núi Đối",0
+"Food - Beverages","Ocoruro",15
+"Food - Beverages","Pak Phanang",1
+"Food - Beverages","Pappadátes",9
+"Food - Beverages","Rancapare",1
+"Food - Beverages","Rosice",6
+"Food - Beverages","Sambirobyong",2
+"Food - Beverages","San Juan",0
+"Food - Beverages","Skien",9
+"Food - Beverages","Smokvica",2
+"Food - Beverages","Sobontoro",2
+"Food - Beverages","Sogod",3
+"Food - Beverages","Sovetskiy",2
+"Food - Beverages","Syanno",2
+"Food - Beverages","Tarogong",0
+"Food - Beverages","Tokmok",1
+"Food - Beverages","Tuohua",2
+"Food - Beverages","Vestmanna",2
+"Food - Beverages","Villa Nueva",3
+"Food - Beverages","Vodňany",5
+"Food - Beverages","Yelets",3
+"Food - Beverages","Yelizavetinskaya",1
+"Food - Breakfast","Enriquillo",1
+"Food - Breakfast","Hangwula",1
+"Food - Breakfast","Kisai",2
+"Food - Breakfast","Meipu",0
+"Food - Breakfast","Nouna",2
+"Food - Breakfast","Ujmisht",1
+"Food - Breakfast","Xiping",1
+"Food - Breakfast","Yokotemachi",0
+"Food - Breakfast Foods","Valašská Polanka",0
+"Food - Canned Goods","Croix",2
+"Food - Canned Goods","Działdowo",1
+"Food - Canned Goods","Koźmin Wielkopolski",1
+"Food - Canned Goods","Lanuza",1
+"Food - Canned Goods","Magbay",47
+"Food - Canned Goods","Paraty",5
+"Food - Canned Goods","Quelimane",0
+"Food - Canned Goods","São Luís do Quitunde",1
+"Food - Canned Goods","Sukasada",1
+"Food - Canned Goods","Wailang",0
+"Food - Cereal","Gobernador Ingeniero Valentín Virasoro",2
+"Food - Cereal","Huibu",2
+"Food - Cereal","Pataias",2
+"Food - Condiments","Andalan",1
+"Food - Condiments","Caqu",2
+"Food - Condiments","Changshan",1
+"Food - Condiments","Ciepielów",2
+"Food - Condiments","Dabagou",10
+"Food - Condiments","Desa Nasol",0
+"Food - Condiments","Doblas",0
+"Food - Condiments","Dongqiao",3
+"Food - Condiments","Ekenäs",1
+"Food - Condiments","Erie",2
+"Food - Condiments","Göteborg",3
+"Food - Condiments","Guanzhuang",13
+"Food - Condiments","Hägersten",2
+"Food - Condiments","Haparanda",1
+"Food - Condiments","Huilong",3
+"Food - Condiments","Irvine",42
+"Food - Condiments","Jingu",10
+"Food - Condiments","Kadudampit",2
+"Food - Condiments","Kafir Qala",34
+"Food - Condiments","Kandana",5
+"Food - Condiments","Katrineholm",2
+"Food - Condiments","Kendal",0
+"Food - Condiments","Kosaya Gora",6
+"Food - Condiments","Ludwigshafen am Rhein",1
+"Food - Condiments","Markovo",2
+"Food - Condiments","Núi Sập",3
+"Food - Condiments","Obudu",2
+"Food - Condiments","Omemee",2
+"Food - Condiments","Pawili",0
+"Food - Condiments","Pensacola",27
+"Food - Condiments","Point Pedro",2
+"Food - Condiments","Puget-sur-Argens",2
+"Food - Condiments","Rolândia",13
+"Food - Condiments","Rungis",1
+"Food - Condiments","Saboyá",1
+"Food - Condiments","Sambirobyong",3
+"Food - Condiments","Sangmélima",0
+"Food - Condiments","São José do Rio Pardo",10
+"Food - Condiments","Shuiyin",2
+"Food - Condiments","Sigeng",3
+"Food - Condiments","Smokvica",3
+"Food - Condiments","Songshu",0
+"Food - Condiments","Sovetskiy",3
+"Food - Condiments","Stará Ves nad Ondřejnicí",1
+"Food - Condiments","Stockholm",1
+"Food - Condiments","Tabasalu",2
+"Food - Condiments","Tanuma",2
+"Food - Condiments","Trélazé",11
+"Food - Condiments","Valdivia",4
+"Food - Condiments","Wangmang",27
+"Food - Condiments","Yuewan",3
+"Food - Condiments","Zhougang",2
+"Food - Confectionery","Songshu",0
+"Food - Cooking Oil","Xiangyanglu",5
+"Food - Cooking Oil","Xiaxi",5
+"Food - Dairy","Amancio",1
+"Food - Dairy","Ankazoabo",3
+"Food - Dairy","Boguchar",1
+"Food - Dairy","Bolgar",2
+"Food - Dairy","Dangjiaxian",3
+"Food - Dairy","Dupi",4
+"Food - Dairy","Gaotan",3
+"Food - Dairy","Hetian",2
+"Food - Dairy","Jakubowice Murowane",2
+"Food - Dairy","Jarabacoa",21
+"Food - Dairy","Junyang",3
+"Food - Dairy","Kieta",14
+"Food - Dairy","Las Palmas",5
+"Food - Dairy","Lazaro Cardenas",2
+"Food - Dairy","Lilio",2
+"Food - Dairy","Parintins",2
+"Food - Dairy","Paris La Défense",11
+"Food - Dairy","Piribebuy",2
+"Food - Dairy","Quime",21
+"Food - Dairy","Rosh Ha‘Ayin",11
+"Food - Dairy","Shouzhan",2
+"Food - Dairy","Simão Dias",11
+"Food - Dairy","Stockholm",3
+"Food - Dairy","Tupiza",3
+"Food - Dairy","Uji",2
+"Food - Dairy","Wucheng",2
+"Food - Dairy","Yambol",3
+"Food - Dairy","Yelizavetinskaya",13
+"Food - Dairy Alternatives","Khodzha-Maston",0
+"Food - Dairy Alternatives","Rennes",0
+"Food - Deli","Oepuah",34
+"Food - Deli","Pembroke",34
+"Food - Deli","Yelizavetinskaya",137
+"Food - Desserts","Rozhniv",2
+"Food - Desserts","Rudy",2
+"Food - Desserts","Zhoushizhuang",174
+"Food - Dips","Eirunepé",2
+"Food - Dips","Paniqui",2
+"Food - Dips","Rosice",1
+"Food - Freezer","San Carlos",4
+"Food - Fresh Produce","Rennes",2
+"Food - Frozen","Lujiao",21
+"Food - Frozen","Minuyan",21
+"Food - Frozen","Nanchoc",21
+"Food - Frozen","San Narciso",21
+"Food - Frozen","Słońsk",1
+"Food - Frozen","Tuohua",1
+"Food - Frozen Desserts","Nueva Italia",2
+"Food - Frozen Food","Macau",3
+"Food - Frozen Foods","Åmål",6
+"Food - Frozen Foods","Chok Chai",1
+"Food - Frozen Foods","El Progreso",2
+"Food - Frozen Foods","Gaotan",4
+"Food - Frozen Foods","Hailin",5
+"Food - Frozen Foods","Hekou",2
+"Food - Frozen Foods","Heung-hai",4
+"Food - Frozen Foods","Huangqi",93
+"Food - Frozen Foods","Huochezhan",2
+"Food - Frozen Foods","Jāmpur",4
+"Food - Frozen Foods","Kibara",2
+"Food - Frozen Foods","La Libertad",2
+"Food - Frozen Foods","Lanling",1
+"Food - Frozen Foods","Manzë",1
+"Food - Frozen Foods","Mopti",0
+"Food - Frozen Foods","Mātli",7
+"Food - Frozen Foods","Muang Xay",1
+"Food - Frozen Foods","Nukuoro",1
+"Food - Frozen Foods","Poços de Caldas",4
+"Food - Frozen Foods","Pulosari",2
+"Food - Frozen Foods","Sarāb",1
+"Food - Frozen Foods","Satsumasendai",93
+"Food - Frozen Foods","Shuangchahe",0
+"Food - Frozen Foods","Stockholm",6
+"Food - Frozen Foods","Xiaozhen",1
+"Food - Frozen Meals","Åby",2
+"Food - Frozen Meals","Adar",2
+"Food - Frozen Meals","Berlin",1
+"Food - Frozen Meals","Bualan",23
+"Food - Frozen Meals","La Libertad",2
+"Food - Frozen Meals","Laramate",23
+"Food - Frozen Meals","Midoun",4
+"Food - Frozen Meals","Popayán",4
+"Food - Frozen Meals","Tønsberg",23
+"Food - Frozen Meals","Ust’-Uda",2
+"Food - Frozen Meals","Vidnoye",7
+"Food - Frozen Meals","Xiaoguwei",3
+"Food - Frozen Vegetables","Changzhou",3
+"Food - Frozen Vegetables","Kronoby",3
+"Food - Frozen Vegetables","Ust’-Kachka",2
+"Food - Fruits","Al Miftāḩ",1
+"Food - Fruits","Bobigny",2
+"Food - Fruits","Hangwula",1
+"Food - Fruits","Kharbathā Banī Ḩārith",1
+"Food - Fruits","Mabamba",1
+"Food - Fruits","Rubio",2
+"Food - Fruits","Zhong’an",1
+"Food - Gourmet Rice","Kafir Qala",2
+"Food - Gourmet Rice","Motala",18
+"Food - Gourmet Rice","Yangchao",18
+"Food - Grains","Пласница",0
+"Food - Grains","Åby",1
+"Food - Grains","Adar",1
+"Food - Grains","Ash Shajarah",0
+"Food - Grains","Badar",0
+"Food - Grains","Bakar",2
+"Food - Grains","Baqiao",2
+"Food - Grains","Bébédja",0
+"Food - Grains","Brejoeira",1
+"Food - Grains","Bucu Kidul",0
+"Food - Grains","Cazin",1
+"Food - Grains","Changmaoling",52
+"Food - Grains","Darnah",2
+"Food - Grains","Dazu",2
+"Food - Grains","Dortmund",0
+"Food - Grains","Japeri",5
+"Food - Grains","Lajkovac",0
+"Food - Grains","Langxi",0
+"Food - Grains","Piskavica",1
+"Food - Grains","San Gregorio",4
+"Food - Grains","Sankera",2
+"Food - Grains","Senhor do Bonfim",52
+"Food - Grains","Sigou",1
+"Food - Grains","Suresnes",2
+"Food - Grains","Thívai",2
+"Food - Grains","Touying",1
+"Food - Grains","Ust’-Uda",1
+"Food - Grains","Valašská Polanka",1
+"Food - Grains","Vallentuna",2
+"Food - Grains","Yangce",5
+"Food - Grocery","Desa Nasol",3
+"Food - Household","Sala",2
+"Food - Meat","Bazi",0
+"Food - Meat","Burujul",1
+"Food - Meat","Desa Nasol",32
+"Food - Meat","Dianfang",2
+"Food - Meat","Głogów Małopolski",1
+"Food - Meat","Kachug",1
+"Food - Meat","Kalangala",1
+"Food - Meat","Karditsomagoúla",1
+"Food - Meat","Kelaniya",0
+"Food - Meat","Lage",2
+"Food - Meat","Lerum",0
+"Food - Meat","Maodao",6
+"Food - Meat","Marseille",1
+"Food - Meat","Mikró Monastíri",1
+"Food - Meat","Muang Xay",3
+"Food - Meat","Pulosari",2
+"Food - Meat","Shaliu",1
+"Food - Meat","Sumberkenanga",1
+"Food - Meat","Syanno",2
+"Food - Nut Butters","Nieying",3
+"Food - Nuts","Anqing",3
+"Food - Nuts","Banatska Topola",3
+"Food - Nuts","Jāmpur",0
+"Food - Nuts","Kuala Lumpur",0
+"Food - Nuts","Saurimo",3
+"Food - Nuts","Sośnie",3
+"Food - Oils","Fengcun",1
+"Food - Pasta","Arvika",7
+"Food - Pasta","Ibusuki",0
+"Food - Pasta","Katrineholm",2
+"Food - Pasta","Omemee",2
+"Food - Prepared Foods","Ad Dann",2
+"Food - Prepared Foods","Balta",2
+"Food - Prepared Foods","Bocaiúva",1
+"Food - Prepared Foods","Caqu",0
+"Food - Prepared Foods","Guicheng",1
+"Food - Prepared Foods","Kaduketug",11
+"Food - Prepared Foods","Núi Đối",2
+"Food - Prepared Foods","Ojrzeń",2
+"Food - Prepared Foods","Shuiyin",0
+"Food - Prepared Foods","Zhougang",0
+"Food - Produce","A dos Cunhados",0
+"Food - Produce","Almeirim",1
+"Food - Produce","Barkā’",0
+"Food - Produce","Catujal",2
+"Food - Produce","El Progreso",5
+"Food - Produce","Fucheng",3
+"Food - Produce","Galaz",57
+"Food - Produce","Guadalupe",57
+"Food - Produce","Huai’an",0
+"Food - Produce","Huochezhan",5
+"Food - Produce","Kotel’va",3
+"Food - Produce","Nol",57
+"Food - Produce","Paraty",93
+"Food - Produce","Sangmélima",4
+"Food - Produce","Trzebinia",4
+"Food - Salads","Catujal",8
+"Food - Salads","Ikšķile",3
+"Food - Salads","Jinja",3
+"Food - Salads","Mira",1
+"Food - Salads","Quilmaná",1
+"Food - Salads","Rozhniv",5
+"Food - Salads","Rudy",5
+"Food - Salads","Voloka",6
+"Food - Sauces","Binhailu",1
+"Food - Sauces","Cesson",1
+"Food - Sauces","Dianqian",3
+"Food - Sauces","Dongqiao",0
+"Food - Sauces","Göteborg",0
+"Food - Sauces","Guaranésia",3
+"Food - Sauces","Igarapé Açu",1
+"Food - Sauces","Izingolweni",0
+"Food - Sauces","Majunying",1
+"Food - Sauces","Nampicuan",1
+"Food - Sauces","Tais",0
+"Food - Sauces","Xindong",3
+"Food - Seafood","Beiwenquan",1
+"Food - Seafood","Disūq",7
+"Food - Seafood","General Elizardo Aquino",11
+"Food - Seafood","Guanzhuang",11
+"Food - Seafood","Kaum",2
+"Food - Seafood","Kedawung",11
+"Food - Seafood","Santa Cruz do Bispo",2
+"Food - Seafood","Suzuka",7
+"Food - Seafood","Tāfuna",2
+"Food - Seafood","Yunzhong",11
+"Food - Sides","Ankazoabo",5
+"Food - Sides","Junyang",5
+"Food - Sides","Liuhe",5
+"Food - Sides","Madīnat Ḩamad",2
+"Food - Snacks","Amashca",7
+"Food - Snacks","Ambanja",2
+"Food - Snacks","Andrijaševci",2
+"Food - Snacks","Araguari",1
+"Food - Snacks","Banjar Batuaji Kaja",2
+"Food - Snacks","Barurao",5
+"Food - Snacks","Bazi",1
+"Food - Snacks","Bengtsfors",0
+"Food - Snacks","Boguchar",1
+"Food - Snacks","Bualan",16
+"Food - Snacks","Buenos Aires",6
+"Food - Snacks","Carabamba",3
+"Food - Snacks","Cazin",1
+"Food - Snacks","Chinju",1
+"Food - Snacks","Cielądz",0
+"Food - Snacks","Cineumbeuy",1
+"Food - Snacks","Duotian",5
+"Food - Snacks","Faro",1
+"Food - Snacks","Fussa",5
+"Food - Snacks","General Alvear",1
+"Food - Snacks","Głogów Małopolski",6
+"Food - Snacks","Göteborg",4
+"Food - Snacks","Guojiazhuang",1
+"Food - Snacks","Haparanda",1
+"Food - Snacks","Hazlov",1
+"Food - Snacks","Hengshan",7
+"Food - Snacks","Hengxizhen",1
+"Food - Snacks","Huayuan",1
+"Food - Snacks","Jaffna",2
+"Food - Snacks","Jinling",2
+"Food - Snacks","Kachug",6
+"Food - Snacks","Kasserine",5
+"Food - Snacks","Kecskemét",0
+"Food - Snacks","Kosaya Gora",1
+"Food - Snacks","Kuala Lumpur",0
+"Food - Snacks","Laramate",16
+"Food - Snacks","Levallois-Perret",4
+"Food - Snacks","Lonya Chico",1
+"Food - Snacks","Lubin",4
+"Food - Snacks","Luján de Cuyo",0
+"Food - Snacks","Lyambir’",1
+"Food - Snacks","Malway",2
+"Food - Snacks","Midoun",3
+"Food - Snacks","Mucllo",5
+"Food - Snacks","Muraloka",0
+"Food - Snacks","Nagutskoye",0
+"Food - Snacks","Pa Tio",46
+"Food - Snacks","Pappadátes",29
+"Food - Snacks","Prokhladnyy",1
+"Food - Snacks","Rixi",4
+"Food - Snacks","Rosice",9
+"Food - Snacks","Rungis",1
+"Food - Snacks","Sala",2
+"Food - Snacks","San Sebastián",1
+"Food - Snacks","Santa",2
+"Food - Snacks","Shuanghe",3
+"Food - Snacks","Skien",29
+"Food - Snacks","Slutsk",1
+"Food - Snacks","Stockholm",2
+"Food - Snacks","Stony Hill",2
+"Food - Snacks","Sukaraja",0
+"Food - Snacks","Tegalsari",0
+"Food - Snacks","Tomepampa",3
+"Food - Snacks","Tomigusuku",2
+"Food - Snacks","Tønsberg",16
+"Food - Snacks","Tsuma",1
+"Food - Snacks","Utrecht (stad)",16
+"Food - Snacks","Valença",2
+"Food - Snacks","Vallentuna",5
+"Food - Snacks","Xindong",1
+"Food - Snacks","Yuanlin",2
+"Food - Snacks","Yuewan",1
+"Food - Soups","Jiucaizhuang",1
+"Food - Soups","Tuohua",2
+"Food - Spices","Carpina",3
+"Food - Spices","Jakubowice Murowane",6
+"Food - Supplements","Åby",8
+"Food - Vegetables","Bakar",40
+"Food - Vegetables","Baqiao",40
+"Food - Vegetables","Cazin",1
+"Food - Vegetables","Chok Chai",2
+"Food - Vegetables","Dazu",40
+"Food - Vegetables","Nukuoro",2
+"Food - Vegetables","Sankera",40
+"Food - Vegetables","Suresnes",40
+"Food - Vegetables","Uji",1
+"Footwear","Camplong",1
+"Footwear","Honghe",1
+"Footwear","Khadan Khāk",1
+"Footwear","Martensville",1
+"Gaming","Huangqi",5
+"Gaming","San Gregorio",5
+"Gaming","Satsumasendai",5
+"Gaming","Stockholm",5
+"Garden","Atalaia",6
+"Garden","Baishi",9
+"Garden","Gaoping",2
+"Garden","Gongji",1
+"Garden","Gustavsberg",2
+"Garden","Horní Jelení",3
+"Garden","Laurel",1
+"Garden","Madamba",2
+"Garden","Melati",7
+"Garden","Müllendorf",2
+"Garden","Phú Thái",2
+"Garden","Pore",6
+"Garden","Sanom",1
+"Garden","Suzuka",0
+"Garden","Tamandaré",3
+"Garden","Varberg",0
+"Garden","Verona",7
+"Garden","Vodňany",1
+"Health","Aemura",1
+"Health","Burujul",1
+"Health","Cazin",6
+"Health","El Paraiso",2
+"Health","Golopau",2
+"Health","Hengxizhen",2
+"Health","Igreja",7
+"Health","Leipzig",2
+"Health","Longfengshan",2
+"Health","Magdalena",2
+"Health","Pontevedra",3
+"Health","Prokhladnyy",2
+"Health","Pudoc",3
+"Health","Pushkino",2
+"Health","Sanjiang",7
+"Health","Santander",1
+"Health","Santiago De Compostela",1
+"Health","Sarāb",3
+"Health","Sekongkang Bawah",2
+"Health","Thul",2
+"Health","Yingcheng",5
+"Home","Ad Dasmah",0
+"Home","Agidel’",7
+"Home","Al Jawādīyah",184
+"Home","Alavieska",2
+"Home","Anaráchi",0
+"Home","Blantyre",2
+"Home","Boguchar",12
+"Home","Bolgar",61
+"Home","Burujul",3
+"Home","Caraga",3
+"Home","Cereté",1
+"Home","Criciúma",4
+"Home","Dianfang",10
+"Home","Dnestrovsc",3
+"Home","Doblas",1
+"Home","Dogonbadan",0
+"Home","El Progreso",3
+"Home","Feteira Pequena",19
+"Home","Gombangan",1
+"Home","Guangming",1
+"Home","Hartford",2
+"Home","Henggang",3
+"Home","Hengshi",4
+
+927 lignes sélectionnées. 
+

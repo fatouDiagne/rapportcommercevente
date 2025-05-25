@@ -1,0 +1,949 @@
+"REGION","MOIS","NBRCOM"
+"Sabang","3",2
+"Guozhen","8",1
+"Midoun","5",1
+"Sunfang","4",1
+"Hanghuadian","2",1
+"Tayturka","2",1
+"Kanoni","1",1
+"Ifanes","12",1
+"Simunul","5",1
+"Madoi","8",1
+"Macarse","5",1
+"Khānaqāh","6",1
+"Beixiang","1",1
+"Beixiang","2",1
+"Las Palmas","3",1
+"Santa Cruz","1",1
+"Paris 12","3",1
+"Bayside","8",1
+"Tandayag","9",1
+"Somanda","3",1
+"Nansan","12",1
+"Kyankwanzi","2",1
+"Los Mangos","9",1
+"Sabnie","4",1
+"Cauto Cristo","9",2
+"Baise City","11",1
+"Pyinmana","7",1
+"Getengan","10",1
+"Cabcaben","8",1
+"Itaboraí","1",1
+"Zel’va","10",1
+"Nueva Ocotepeque","3",1
+"San Antonio","1",1
+"Terre Haute","9",1
+"Pagaden","3",1
+"Sobinka","12",1
+"Chile Chico","1",1
+"Washington","3",1
+"Virginia","5",1
+"Rionegro","7",1
+"Cigintung","4",1
+"Yangsan","8",1
+"Longos","3",1
+"Tsurusaki","7",1
+"Troparëvo","3",1
+"Rodionovo-Nesvetaiskoye","6",1
+"Rodionovo-Nesvetaiskoye","10",1
+"Leidschendam","2",1
+"Santa Fe","4",1
+"Luleå","9",1
+"Silva Jardim","9",1
+"Silva Jardim","8",1
+"Cilaja","12",1
+"Or Yehuda","11",1
+"Bondoboghila","6",1
+"Pajé","6",1
+"Kelapa","6",1
+"Mós","2",1
+"Mós","1",1
+"Campamento","3",1
+"Campamento","5",1
+"Huanggexi","7",1
+"Nossa Senhora do Socorro","9",1
+"Biała","6",1
+"Vạn Giã","7",1
+"Cuenca","12",1
+"Xiangfeng","10",1
+"Trieste","12",1
+"Gamping Lor","11",1
+"Brumado","3",1
+"Ganding","7",1
+"Metz","12",1
+"Daojiang","6",1
+"Wanrongjiang","10",1
+"Kolbuszowa","10",1
+"Lorengau","9",1
+"Mineiros","4",1
+"Xinjian","1",1
+"Xinjian","5",1
+"Duczki","2",1
+"Temandangjero","2",1
+"Poiares","8",1
+"Jingyao","5",1
+"Huyu","3",2
+"Opochka","2",1
+"Novo Aripuanã","4",1
+"Novo Aripuanã","6",1
+"Pitogo","4",1
+"San Rafael","7",1
+"Bezhta","2",1
+"Quimbaya","2",1
+"Carleton-sur-Mer","7",1
+"Romanovo","2",1
+"Binafun","3",1
+"Altona","4",1
+"Santa Iria de Azóia","11",1
+"Novoukrayinka","8",1
+"Krajan Timur Mlokorejo","5",1
+"Podgortsy","6",1
+"Bodzentyn","2",1
+"Unidad","8",1
+"Unidad","12",1
+"Aihua","6",1
+"Jingling","2",1
+"Malbug","10",2
+"Klerksdorp","7",1
+"Ar Riqāb","7",1
+"Metu","10",1
+"Swedru","8",1
+"Meziměstí","6",1
+"Shepetivka","8",1
+"Damatulan","10",1
+"Damatulan","5",1
+"Farīmān","3",1
+"Hexi","8",2
+"Hexi","11",1
+"Koltushi","7",1
+"Ángeles","3",1
+"Sukhothai","8",1
+"Kaniów","6",1
+"Mqabba","2",1
+"Cuito","9",1
+"Santa Cruz del Quiché","10",1
+"Xunzhai","5",1
+"Rosignol","12",1
+"Narol","4",1
+"Xi’an","9",1
+"Ifanes","6",1
+"Tian’an","6",1
+"Kalipare","1",1
+"Hultsfred","2",1
+"Dārān","1",1
+"Ijūin","1",1
+"Sukamaju","8",1
+"Satsumasendai","10",1
+"La Tola","11",1
+"Dongming","7",1
+"Mora","7",1
+"Paris 12","7",1
+"Paris 12","5",1
+"Ścinawa","1",1
+"Rekovac","8",1
+"Nuku‘alofa","4",1
+"Minanga Norte","7",1
+"Minanga Norte","6",1
+"Marelesu","8",1
+"Sabnie","12",1
+"Abū Qalqal","5",1
+"Abū Qalqal","2",1
+"Linëvo","9",1
+"Linëvo","12",1
+"Pysznica","3",1
+"Namikupa","1",2
+"Namikupa","12",1
+"København","12",2
+"Krzynowłoga Mała","6",1
+"Ghurayd Gharamē","9",1
+"Chengyang","1",1
+"Nowosielce","9",1
+"Sanming","3",1
+"Barda","10",1
+"Khōshī","5",1
+"Aylmer","4",1
+"Singida","12",2
+"Tarvasjoki","12",1
+"Leiden","11",1
+"Leiden","8",1
+"Ávato","5",1
+"Maki","8",2
+"Berlin","10",1
+"Xinpu","7",1
+"Guaçuí","8",1
+"Kayan","9",1
+"Rezovac","12",1
+"Demerval Lobão","5",1
+"Malasugui","2",1
+"Hougang","12",1
+"Jazovo","7",1
+"Maras","2",1
+"Gaoyu","10",1
+"Limoeiro do Ajuru","1",1
+"Pangian","12",1
+"Fort Pierce","8",1
+"Ribeiro","6",1
+"Moss","6",1
+"Girihieum","11",1
+"Carvalhal","10",1
+"Bazhu","10",2
+"Longde Chengguanzhen","12",1
+"Gamping Lor","4",1
+"Examília","5",1
+"Patarrá","1",1
+"Paris 20","12",1
+"Mineiros","1",1
+"Ponyri Vtoryye","9",1
+"Ponyri Vtoryye","1",1
+"Porto Calvo","1",1
+"Ābdānān","5",1
+"Ādilpur","5",1
+"Itsukaichi","12",1
+"Sungailiat","7",2
+"Cangzhou","11",2
+"Pitogo","6",1
+"Tukums","6",1
+"Cáceres","8",1
+"Bezhta","8",1
+"Bezhta","9",1
+"Salgueiro","2",1
+"Sanyang","6",1
+"Romanovo","5",1
+"Tiền Hải","12",1
+"Tiền Hải","4",1
+"Meylan","10",1
+"Zamboanguita","7",1
+"Arroyo Seco","2",1
+"São Paio de Seide","7",1
+"Craigavon","6",1
+"Fílla","10",2
+"Santa Lucia","5",1
+"Miedzichowo","3",1
+"Pocokan Satu","4",2
+"Kuczbork-Osada","9",1
+"Meziměstí","5",1
+"La Gloria","4",1
+"Fraile Pintado","4",1
+"Canguçu","1",1
+"Wiskitki","5",1
+"Koltushi","6",1
+"Runaway Bay","8",1
+"Fengcun","9",1
+"Guozhen","2",1
+"Putrajaya","2",1
+"Tejar","6",1
+"Vito","4",1
+"Oro Verde","12",1
+"Santa Cruz del Quiché","5",1
+"Koch'ang","1",1
+"Xunzhai","7",1
+"Xunzhai","10",1
+"Sitangkai","8",1
+"Madrid","1",1
+"Oxelösund","3",1
+"Gwaram","12",1
+"Beloha","12",1
+"Kudinovo","7",1
+"Arcos","7",1
+"Tofol","3",2
+"Dayr al Ghuşūn","9",1
+"Camajuaní","9",2
+"Rungkang","11",1
+"Satsumasendai","5",2
+"Prelog","8",1
+"Las Palmas","5",1
+"Novotitarovskaya","5",1
+"Monkstown","7",1
+"Uhniv","10",1
+"Roberval","10",1
+"Ścinawa","10",1
+"Bogatynia","11",1
+"Nuku‘alofa","2",1
+"Postmasburg","3",1
+"Los Mangos","8",1
+"Los Mangos","2",1
+"Marelesu","1",1
+"Fresno","5",1
+"Abū Qalqal","1",1
+"Linëvo","8",1
+"Oemanu","1",1
+"Seattle","11",1
+"Ghurayd Gharamē","4",1
+"Adela","2",1
+"Adela","1",1
+"Zelenogorsk","4",1
+"Changchun","11",1
+"Priyutovo","9",1
+"Lipovci","7",1
+"Timbuktu","5",1
+"Simabur","6",1
+"Skien","11",1
+"Nowosielce","8",1
+"Nowosielce","11",1
+"Nangela","1",1
+"Qiaodi","10",1
+"Paterson","3",1
+"San Antonio","11",1
+"Goseong","4",1
+"Goseong","5",1
+"Parung","7",1
+"Guandu","3",1
+"Ngondokandawu","7",1
+"Ngondokandawu","6",1
+"Xiaomei","9",1
+"Ma‘bar","1",1
+"Nanyo","7",1
+"San Pedro","2",1
+"Kembang","8",1
+"Kuala Lumpur","12",1
+"Baizhifang","4",1
+"Nowshera Cantonment","4",1
+"Nowshera Cantonment","5",1
+"Karawatung","4",1
+"Or Yehuda","5",1
+"Kayan","2",1
+"Konče","6",1
+"Honoria","5",1
+"Bondoboghila","11",1
+"Kitahiroshima","5",1
+"Balakhta","12",1
+"Lyubotyn","8",1
+"Malichang","9",1
+"Atar","1",1
+"Timon","12",1
+"Fort Pierce","10",1
+"Biała","12",1
+"Gorodishche","4",1
+"Eling","9",1
+"Shibirghān","9",1
+"Shijiao","8",2
+"Sincelejo","12",1
+"Mogilany","4",1
+"Mogilany","9",1
+"Kuluran","8",1
+"Kuluran","3",1
+"Sokol’skoye","6",1
+"Ağdaş","6",1
+"Leigongmiao","4",1
+"Leigongmiao","2",1
+"Opochka","4",1
+"Säffle","6",1
+"Xichehe","10",1
+"Raejeru","3",1
+"Bayanan","9",1
+"Paço","6",1
+"Sarov","2",1
+"Sarov","5",1
+"Mīrpur Sakro","7",1
+"Kultayevo","4",1
+"Yovon","1",1
+"Doksy","1",1
+"Doksy","8",1
+"Tiền Hải","9",1
+"Amadora","8",1
+"Amadora","5",1
+"Qinglian","9",1
+"Jayyūs","3",1
+"Banyuurip","1",1
+"Ghār al Milḩ","6",1
+"Arroyo Seco","8",1
+"Krajan Timur Mlokorejo","10",1
+"Podgortsy","4",1
+"Kiukainen","11",1
+"Wapno","10",1
+"Presnenskiy","11",1
+"Il’ka","3",1
+"Ar Riqāb","11",2
+"Kibonsod","12",1
+"San Ignacio","10",1
+"Swedru","12",1
+"Canguçu","6",1
+"Farīmān","9",1
+"Mosopa","5",2
+"Ostroróg","1",1
+"Muslyumovo","1",1
+"Bireun","10",1
+"Runting","6",1
+"Vito","7",1
+"Tengqiao","12",1
+"Hongping","3",1
+"Tangfang","12",1
+"Kanoni","4",1
+"Laguna Paiva","8",1
+"Simunul","6",1
+"Sanhe","5",1
+"Vukatanë","10",1
+"Tofol","2",2
+"Orléans","5",1
+"Rybatskoye","7",1
+"Beixiang","10",1
+"Luthu","8",1
+"Las Palmas","4",1
+"Anchau","1",1
+"Santa Cruz","8",1
+"Dārāb","9",2
+"Roberval","9",1
+"Roberval","4",1
+"Altay","4",1
+"Ghormach","4",1
+"Ngulung Wetan","10",1
+"Quintã","9",1
+"Tangdong","9",1
+"Kimch’aek-si","5",1
+"Sabnie","5",1
+"Asíni","8",1
+"Cauto Cristo","8",1
+"Stykkishólmur","1",1
+"Xuetian","8",1
+"Liqi","4",1
+"Seattle","4",1
+"Laramate","7",1
+"Catolé do Rocha","2",1
+"Xiaoying","3",1
+"Baranów","9",1
+"Qiaodi","8",1
+"Nové Město pod Smrkem","9",1
+"Vetrino","1",1
+"Santa Ana","9",1
+"Melenki","3",1
+"Sobinka","5",1
+"Nanyo","1",1
+"Falköping","6",1
+"Mesyagutovo","2",1
+"Ávato","9",1
+"Rodionovo-Nesvetaiskoye","3",1
+"Xingquan","6",1
+"Nowshera Cantonment","7",1
+"Santa Fe","11",1
+"Santa Fe","1",1
+"San Marcos","9",1
+"Naj‘ Ḩammādī","7",1
+"Stord","1",1
+"Konče","3",1
+"Mananjary","4",1
+"Milton","8",1
+"Pajé","3",1
+"Pajé","4",1
+"Jazovo","9",2
+"Zuitou","10",1
+"Pangian","7",1
+"Encontrados","9",1
+"Encontrados","11",1
+"Circa","7",1
+"Monguno","6",1
+"Chipoka","11",2
+"Néa Kíos","8",1
+"Baimi","3",2
+"Yanai","9",1
+"Amolatar","11",1
+"Tuen Mun","5",1
+"Tønsberg","6",1
+"Bamnet Narong","12",1
+"Byala Slatina","5",1
+"Byala Slatina","12",1
+"Mourelos","10",1
+"Turtas","12",1
+"Turtas","7",1
+"Lingdangge","9",1
+"Baiyang","9",1
+"Duczki","3",1
+"Temandangjero","4",1
+"Bergen","7",1
+"Leigongmiao","1",1
+"Sebulu","12",2
+"Raejeru","10",2
+"Raejeru","9",1
+"Viraco","6",1
+"Minakuchi","4",1
+"Pitogo","2",1
+"Jabonga","4",1
+"Kultayevo","2",1
+"Tukums","2",1
+"San Rafael","5",1
+"Marinilla","1",1
+"Curug","8",2
+"Polo","11",1
+"Ghār al Milḩ","1",1
+"Boromlya","2",1
+"Krajan Timur Mlokorejo","9",1
+"Krajan Timur Mlokorejo","8",1
+"Borås","7",1
+"Goraj","3",1
+"Wanzhai","4",1
+"Wapno","7",1
+"Il’ka","6",1
+"Miedzichowo","9",1
+"Kinh Môn","6",1
+"Kinh Môn","3",1
+"Magrath","4",1
+"Farīmān","12",1
+"Bolo","3",1
+"Koltushi","9",1
+"Ángeles","1",1
+"Le Perreux-sur-Marne","3",1
+"Las Tablas","3",1
+"Ārt Khwājah","9",1
+"Al Ḩayfah","3",1
+"Northern Suburbs Mc","1",2
+"Houping","4",2
+"Bijaepasu","1",1
+"Chernelytsya","3",1
+"Kadugannawa","4",1
+"Kanoni","10",1
+"Simunul","4",1
+"Kayu Agung","7",1
+"Navashino","4",1
+"Hultsfred","7",2
+"Živinice","2",1
+"Arevik","9",1
+"Madoi","1",1
+"Burgas","1",1
+"Beixiang","4",1
+"Chirpan","7",1
+"Novotitarovskaya","12",1
+"Cishan","9",1
+"Hrodna","8",1
+"Altay","1",1
+"Paris 12","1",1
+"Cikaung","1",1
+"E’erdun Wula","5",1
+"Gombong","7",1
+"Gombong","12",1
+"Somanda","5",1
+"Somanda","10",1
+"Nansan","11",1
+"Tangdong","1",1
+"Kyankwanzi","12",1
+"Limache","1",1
+"Minanga Norte","1",1
+"Xuetian","6",1
+"Liqi","3",1
+"Karabanovo","9",1
+"Warlubie","3",1
+"Ghurayd Gharamē","6",1
+"Borucin","7",1
+"Praia das Maçãs","8",1
+"Changchun","9",1
+"Changchun","10",1
+"Priyutovo","7",1
+"Priyutovo","8",1
+"Timbuktu","2",1
+"Kawanoechō","3",1
+"Cabcaben","7",1
+"Kaloyanovo","2",1
+"Pishaj","3",1
+"Xiaoying","10",1
+"Xiaoying","12",1
+"Vetrino","6",1
+"Jiepai","11",1
+"Terre Haute","4",1
+"Ar Riqāb","1",1
+"Xicun","1",1
+"Pasadena","10",1
+"Chile Chico","12",1
+"Macinhata da Seixa","3",1
+"San Isidro","6",1
+"Veguitas","12",1
+"Ban Na Muang","10",1
+"Ban Na Muang","4",1
+"Kembang","4",1
+"Kuala Lumpur","7",1
+"Gagarin","9",1
+"Rionegro","10",1
+"Xiangxiang","10",1
+"Ávato","1",1
+"Joubb Jannîne","8",1
+"Xingquan","1",1
+"Pandaan","1",1
+"Tamorong","7",1
+"Rezovac","11",1
+"Bayasgalant","3",1
+"Gaoyu","9",1
+"Timon","11",1
+"Boljevac","3",1
+"Boljevac","7",1
+"Huanggexi","3",1
+"Vicente Guerrero","11",1
+"Aleysk","10",1
+"Psychikó","7",1
+"Huangdu","10",1
+"Néa Kíos","2",1
+"Néa Kíos","1",1
+"Liuzhi","7",1
+"Lorengau","10",1
+"Ujar","4",1
+"Norfolk","3",1
+"Jimaguayú","12",1
+"Turtas","4",2
+"Pancoran","8",1
+"Duczki","11",1
+"Chaoyang","12",1
+"Chaoyang","9",2
+"Novo Aripuanã","9",1
+"Paço","3",1
+"Minakuchi","11",1
+"Cáceres","2",1
+"Dera Bugti","8",1
+"Yovon","8",1
+"Basud","7",1
+"Basud","8",1
+"Binafun","1",1
+"Binafun","8",1
+"Amadora","11",2
+"Gammad","1",2
+"Qinglian","5",1
+"Zaki Biam","3",1
+"Concepción del Uruguay","6",1
+"Arroyo Seco","5",1
+"Tizgane","3",1
+"Krajan Timur Mlokorejo","6",1
+"Santa Ana Huista","6",1
+"Wanzhai","8",1
+"Jingling","12",1
+"Kandangsapi","8",1
+"Malbug","12",1
+"Sanchahe","11",1
+"Sanchahe","12",1
+"Canalete","4",1
+"San Ignacio","2",1
+"San Ignacio","9",1
+"Vila Nova de Santo André","9",1
+"Meziměstí","2",1
+"Magrath","7",1
+"Ángeles","7",1
+"Megati Kelod","4",1
+"Megati Kelod","8",1
+"Megati Kelod","6",1
+"Qinjiang","4",1
+"Sabang","5",2
+"Ārt Khwājah","6",1
+"Sabaneta","2",1
+"Mayo","11",1
+"Caluire-et-Cuire","4",1
+"Caluire-et-Cuire","9",1
+"Northern Suburbs Mc","7",1
+"Tengqiao","2",2
+"Banqiao","12",1
+"Pudoc","6",1
+"Bijaepasu","7",1
+"Bamban","2",1
+"Tanahgrogot","2",1
+"Kadugannawa","12",1
+"Huillapima","1",1
+"Asheville","4",1
+"Burgas","6",1
+"Luthu","2",1
+"Frolovo","10",1
+"Bogatynia","1",1
+"Rekovac","3",2
+"Rekovac","6",1
+"Tangdong","10",1
+"Kimch’aek-si","6",1
+"Fresno","9",1
+"Praia das Maçãs","4",1
+"San Juan de Limay","5",1
+"Kauhava","12",1
+"Pishaj","6",1
+"Góis","10",1
+"Nueva Ocotepeque","7",1
+"Jiepai","2",1
+"Terre Haute","5",1
+"Laocheng","2",2
+"Charikar","9",1
+"Huaizhong","4",1
+"Xicun","8",1
+"Sobinka","8",1
+"Beselga","7",1
+"Beselga","5",1
+"Lechinkay","1",2
+"Lechinkay","8",1
+"Guandu","5",1
+"Midrand","2",1
+"Espinosa","10",1
+"Ban Na Muang","2",1
+"Virginia","9",1
+"Panbang","9",1
+"Doubravice nad Svitavou","3",1
+"Numan","11",1
+"Alaghsas","5",2
+"Karangboyo","7",1
+"Taurisma","9",1
+"Nowa Ruda","2",1
+"Luleå","8",1
+"Silva Jardim","11",1
+"Demerval Lobão","7",1
+"Honoria","3",1
+"Kitahiroshima","4",1
+"Balakhta","7",1
+"Arsenal","5",1
+"Malasugui","3",1
+"Tigbao","7",1
+"Yên Bái","6",1
+"Glyadyanskoye","5",1
+"Mangaran","5",1
+"Mós","6",1
+"Gaoyu","11",1
+"Pomabamba","7",1
+"Ettelbruck","7",1
+"Carvalhal","7",1
+"Bazhu","1",1
+"Maricá","2",1
+"Brumado","1",1
+"Shibirghān","3",1
+"Metz","1",1
+"Chisec","7",2
+"Petropavlovsk","8",1
+"Wanrongjiang","3",1
+"Taksimo","12",1
+"El Mida","4",2
+"Wanagiri","2",1
+"Ponyri Vtoryye","7",1
+"Jingyao","3",1
+"Sebulu","9",1
+"Sungailiat","6",1
+"Pitogo","3",1
+"Kesabpur","9",1
+"Valencia","11",1
+"Salgueiro","11",1
+"Salgueiro","6",1
+"Quimbaya","6",1
+"Sabang","7",1
+"Jayyūs","2",1
+"Runović","4",1
+"Zaki Biam","1",2
+"La Dicha","5",1
+"Hägersten","4",1
+"Aldana","3",1
+"Novyy Oskol","10",2
+"Fílla","3",1
+"Bayan Hot","3",1
+"Aihua","5",2
+"Zākhū","12",1
+"Kerikeri","1",1
+"Pocokan Satu","5",1
+"Lesozavodsk","6",1
+"Maoshan","3",1
+"Yongtai","11",1
+"Vila Nova de Santo André","7",1
+"Göteborg","3",1
+"Vân Đình","4",1
+"Dainan","4",1
+"Wiskitki","11",1
+"Runaway Bay","11",1
+"Fengcun","6",1
+"Le Perreux-sur-Marne","6",2
+"Houping","12",1
+"Cuito","6",1
+"Bijaepasu","9",1
+"Rosignol","2",1
+"Melita","5",1
+"Gwaram","6",1
+"Yancheng","4",1
+"Macarse","12",1
+"Ḏânan","9",1
+"Arrentela","8",1
+"Beixiang","6",1
+"Prelog","9",1
+"La Tola","2",1
+"Anchau","10",1
+"Dārāb","5",1
+"Cikaung","11",1
+"Slobidka","5",1
+"Weifen","1",1
+"Quintã","11",1
+"Minanga Norte","5",1
+"Abū Qalqal","7",1
+"Namikupa","5",1
+"Warlubie","10",1
+"Chengyang","2",1
+"Zhangye","3",1
+"Skurup","7",1
+"Sanming","11",1
+"Terre Haute","10",1
+"Ilongero","7",1
+"Xicun","4",1
+"Sobinka","1",1
+"Guandu","10",1
+"Pasadena","7",1
+"Despotovac","12",1
+"Gur’yevsk","8",1
+"Pasinan Barat","7",1
+"Cigintung","6",1
+"General Roca","8",1
+"Longgang","5",1
+"Troparëvo","4",1
+"Berlin","9",1
+"Wonotirto","5",1
+"Wonotirto","11",1
+"Wonotirto","4",1
+"Joubb Jannîne","7",1
+"Xingquan","2",1
+"Pandaan","12",2
+"Tamorong","6",1
+"Karawatung","3",1
+"Sambirejo","12",1
+"Rezovac","9",1
+"Mananjary","11",1
+"Saint-Germain-en-Laye","4",1
+"Pajé","8",1
+"Wuyang","12",1
+"Jazovo","8",1
+"Limoeiro do Ajuru","12",1
+"Zuitou","11",1
+"Pangian","3",1
+"Huanggexi","5",1
+"Vicente Guerrero","12",1
+"Eling","12",1
+"Eling","8",1
+"Liuzhi","4",1
+"Tuen Mun","10",2
+"Metz","11",1
+"Kuluran","10",1
+"Daojiang","10",1
+"Bamnet Narong","6",1
+"Norfolk","5",1
+"Mourelos","12",1
+"Ponyri Vtoryye","10",1
+"Trenton","6",1
+"Poiares","4",2
+"Opochka","5",1
+"Xichehe","9",1
+"Bayanan","6",1
+"Novo Aripuanã","7",1
+"Miguel Calmon","10",1
+"Stare Pole","11",1
+"Kultayevo","9",1
+"Basud","11",1
+"Polo","8",1
+"Catujal Velho","4",1
+"Shashemenē","4",1
+"Zaki Biam","5",1
+"Podgortsy","8",1
+"Novyy Oskol","8",1
+"Luleå","10",1
+"Fílla","8",1
+"Wapno","12",1
+"Wapno","4",1
+"Santa Lucia","3",2
+"Zdíkov","9",1
+"Maqian","9",1
+"Clodomira","7",1
+"Telêmaco Borba","9",1
+"Kibonsod","5",1
+"Maoshan","9",1
+"Swedru","7",1
+"Futuroscope","1",1
+"Dainan","2",1
+"Sukhothai","12",1
+"Sukhothai","6",1
+"Jindong","12",1
+"Fengcun","8",1
+"Le Perreux-sur-Marne","7",1
+"Putrajaya","4",1
+"Al Ḩayfah","10",1
+"Karlskoga","11",1
+"Frashër","3",1
+"Bueng Khong Long","10",1
+"Rosignol","3",1
+"Rosignol","7",1
+"Tanahgrogot","7",1
+"Kadugannawa","2",1
+"Tayturka","8",1
+"Oxelösund","6",1
+"Simunul","12",1
+"San Francisco","12",1
+"Mount Pearl","4",1
+"Živinice","9",1
+"Al Ain","2",2
+"Sabang","2",1
+"Camajuaní","1",1
+"Cishan","1",1
+"Altay","11",1
+"Tanamiting","4",1
+"Ścinawa","4",1
+"Gombong","9",1
+"Sabnie","1",1
+"Tanggulangin","3",1
+"Seattle","1",1
+"El Aïoun","4",1
+"Balad","2",1
+"Wawrzeńczyce","6",1
+"Pyinmana","12",1
+"Jēkabpils","6",1
+"Zhangye","6",1
+"Skurup","11",1
+"Changliu","11",1
+"Asan","12",1
+"Barda","5",1
+"Kilju","11",1
+"Nové Město pod Smrkem","7",1
+"Melenki","8",1
+"Lechinkay","6",1
+"Aylmer","3",1
+"Vologda","5",1
+"Melekeok Village","6",1
+"Kebonan","7",1
+"Gur’yevsk","11",1
+"Baizhifang","1",1
+"Singida","4",1
+"Tarvasjoki","4",1
+"Mesyagutovo","10",1
+"Berlin","8",1
+"Joubb Jannîne","1",1
+"Ciwidara","11",1
+"Fukadale","2",1
+"Luleå","7",1
+"Azul","4",1
+"Naj‘ Ḩammādī","6",2
+"Or Yehuda","3",1
+"Lyubotyn","2",1
+"Arsenal","2",1
+"Pajé","12",1
+"Tomislavgrad","10",1
+"Cipolletti","1",1
+"Timon","4",1
+"Vicente Guerrero","2",1
+"Vicente Guerrero","9",1
+"Marevo","10",1
+"Cihe","4",2
+"Huangdu","5",1
+"Trieste","5",1
+"Gelsenkirchen","9",1
+"Yanai","5",2
+"Yokohama","8",1
+"Daojiang","2",1
+"Buket Teukuh","1",1
+"Buket Teukuh","6",1
+"Kolbuszowa","12",1
+"Qingfeng","7",1
+"Ponyri Vtoryye","11",1
+"Pancoran","5",1
+"Bergen","3",1
+"Chantepie","10",1
+"Xichehe","11",1
+"Sumberkrajan","5",1
+"Cincinnati","11",1
+"Sungailiat","8",1
+"Yovon","9",1
+"Romanovo","1",1
+"Ostankinskiy","3",1
+"Mahébourg","3",1
+"Banyuurip","7",1
+"Santa Iria de Azóia","4",1
+"Arroyo Seco","9",1
+"Hägersten","11",1
+"Skórcz","3",1
+"Stockholm","6",1
+"Malbug","3",1
+"Watulimo","2",1
+"Il’ka","2",1
+"Clodomira","8",1
+"Miedzichowo","4",1
+"Maoshan","5",1
+"Yongtai","1",1
+"Kinh Môn","12",1
+"Magrath","12",1
+"Bolo","4",1
+
+945 lignes sélectionnées. 
+

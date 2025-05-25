@@ -1,0 +1,15 @@
+insert into fait_commande(chiffraff,delai, annee, region) select sum(d.quantite*d.prixunitaire),ROUND(AVG(l.datelivraison - l.dateprevu), 2), EXTRACT(YEAR FROM c.datecommande) as annee, cl.pays as region from  toto.detailcommande d join toto.commande c on d.idcommande=c.idcommande join toto.client cl on c.idclient = cl.idclient join toto.livraison l on l.idcommande=c.idcommande  group by EXTRACT(YEAR FROM c.datecommande), cl.pays;
+
+
+insert into fait_commande2(region, mois, nbrcom)
+select cl.region, EXTRACT(MONTH FROM c.datecommande) count(c.nbcommande) from toto.commande c join toto.client cl
+on c.idclient = cl.idclient 
+group by EXTRACT(MONTH FROM c.datecommande), cl.region;
+
+
+insert into fait_commerce1(categorie, region, tauxretour) SELECT p.categorie, l.region, ROUND(SUM(p.nbretour) / NULLIF(SUM(dc.quantite), 0), 0) AS taux_retour
+FROM toto.produit p JOIN toto.detailcommande dc ON p.idproduit = dc.idproduit
+JOIN toto.commande c ON dc.idcommande = c.idcommande
+JOIN toto.livraison l ON c.idcommande = l.idcommande
+GROUP BY p.categorie, l.region ORDER BY p.categorie, l.region;
+
