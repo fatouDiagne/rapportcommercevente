@@ -48,3 +48,4 @@ Un **rapport Power BI interactif** a été développé pour visualiser les indic
 ---
 
 > Ce projet a été réalisé dans le cadre d’un travail  autour de la mise en place d’une solution BI pour une entreprise e-commerce.
+<img width="587" alt="image" src="https://github.com/user-attachments/assets/5b53e7f7-4c2e-48b3-8177-627cdab7a7bf" />
